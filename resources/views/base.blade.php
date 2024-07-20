@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="{{ asset('/assets/images/favicon.png') }}">
-    <title>Manarat Al Falah Trading LLC - Building Material Supplier</title>
+    <title>Manarat Al Falah Trading LLC - Premium Lifting & Safety Equipments Supplier</title>
 
     <!-- fontawesome css -->
     <link rel="stylesheet" href="{{ asset('/assets/css/plugins/fontawesome-5.css') }}">

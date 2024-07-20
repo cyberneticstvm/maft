@@ -111,7 +111,7 @@
                             <h2 class="title">
                                 Manarat Al Falah Trading LLC - MAFT
                             </h2>
-                            <p class="disc">
+                            <p class="disc text-justify">
                                 We are a specialized supplier of top-notch lifting gear, catering to a wide range of industries including Marine, Oil & Gas, Off-shore, Construction, Piling & Foundation, Crane, and Engineering. With our unwavering commitment to quality, we take pride in delivering products that meet and exceed international standards.<br/>
                                 At <a href="https://maft.ae" class="text-orange">MAFT</a>, our experienced team is dedicated  to understanding anf fulfilling the unique needs of our customers. Drawing on our expertise and industry knowledge, we strive to provide tailored solution that optimize performance and ensure safety.<br/>
                                 We emphasize the importance of adhering to stringent quality control measures throughout our manufacturing and supply processes. Each product undergoes rigorous testing and inspection to guarantee, reliability, durability, and compaliance with international standards.<br/>

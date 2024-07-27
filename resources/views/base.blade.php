@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="{{ asset('/assets/css/plugins/metismenu.css') }}">
     <link rel="stylesheet" href="{{ asset('/assets/css/plugins/hover-revel.css') }}">
     <link rel="stylesheet" href="{{ asset('/assets/css/plugins/timepickers.min.css') }}">
+    <link href="{{ asset('/assets/css/mystickyelement.css') }}" rel="stylesheet">
     <!-- bootstrap css -->
     <link rel="stylesheet" href="{{ asset('/assets/css/vendor/bootstrap.min.css') }}">
     <!-- main css -->
@@ -25,7 +26,22 @@
 </head>
 
 <body class="index-twelve">
-
+    <!-- Whatsapp -->
+    <div class="mystickyelements-fixed mystickyelements-position-right mystickyelements-position-screen-center mystickyelements-position-mobile-right mystickyelements-on-hover mystickyelements-size-medium mystickyelements-mobile-size-medium mystickyelements-templates-default">
+        <div class="mystickyelement-lists-wrap">
+            <ul class="mystickyelements-lists mystickyno-minimize">
+                <li id="mystickyelements-social-whatsapp" class="mystickyelements-social-icon-li mystickyelements-social-whatsapp  element-desktop-on element-mobile-on">
+                    <span class="mystickyelements-social-icon social-whatsapp social-custom" style="background: #FF3E3E">
+                        <a href="https://api.whatsapp.com/send?phone=971501003687&text=Hello!%20I%20am%20interested%20in%20your products" target="_blank" rel="noopener"><i class="fab fa-whatsapp" aria-hidden="true"></i></a>
+                    </span>
+                    <span class="mystickyelements-social-text " style="background: #FF3E3E">
+                        <a href="https://api.whatsapp.com/send?phone=971501003687&text=Hello!%20I%20am%20interested%20in%20your products" target="_blank" rel="noopener">WhatsApp</a>
+                    </span>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- End Whatsapp -->
     <!-- rts header area twelve -->
     <div class="header-area-twelve header--sticky">
         <div class="container">
@@ -120,7 +136,7 @@
                                 <img src="{{ asset('/assets/images/logo/maft-logo-small.png') }}" alt="maft-logo">
                             </a>
                             <p class="disc-f">
-                                Sapien luctus lesuada sentus pharetra nisi quisuea aenean eros mus magnis arcu vehicula nascetur feugiat
+                                We are a specialized supplier of top-notch lifting gear, catering to a wide range of industries including Marine, Oil & Gas, Off-shore, Construction, Piling & Foundation, Crane, and Engineering.
                             </p>
                             <div class="rts-social-wrapper-three">
                                 <ul>
@@ -180,7 +196,7 @@
                             <div class="footer-header-two newsletter">
                                 <h6 class="title">Newsletter</h6>
                                 <p class="letters">
-                                    Aplications prodize before front end ortals visualize front end
+                                    Subscribe our Newsletter
                                 </p>
                                 <form class="subscribe-2-footer">
                                     <input type="email" required placeholder="Email Address">
@@ -276,6 +292,8 @@
     <script src="{{ asset('/assets/js/plugins/hover-revel.js') }}"></script>
     <!-- contact form js -->
     <script src="{{ asset('/assets/js/plugins/contact-form.js') }}"></script>
+
+    <script src="{{ asset('/assets/js/mystickyelement.js') }}"></script>
     <!-- main js -->
     <script src="{{ asset('/assets/js/main.js') }}"></script>
     <!-- swip image -->

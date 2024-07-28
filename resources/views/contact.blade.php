@@ -86,26 +86,26 @@
                 <form action="{{ route('contact.submit') }}" method="POST" class="contact-form-contact">
                     @csrf
                     <div class="name-email">
-                        <input type="text" name="name" placeholder="Your Name">
+                        <input type="text" name="name" value="{{ old('name') }}" placeholder="Your Name">
                         @error('name')
                         <small class="text-danger">{{ $errors->first('name') }}</small>
                         @enderror
-                        <input type="text" name="mobile" placeholder="Mobile Number">
+                        <input type="text" name="mobile" value="{{ old('mobile') }}" placeholder="Mobile Number">
                         @error('mobile')
                         <small class="text-danger">{{ $errors->first('mobile') }}</small>
                         @enderror
                     </div>
-                    <input type="text" name="subject" placeholder="Your Subject">
+                    <input type="text" name="subject" value="{{ old('subject') }}" placeholder="Your Subject">
                     @error('subject')
                     <small class="text-danger">{{ $errors->first('subject') }}</small>
                     @enderror
-                    <textarea placeholder="Type Your Message" name="message"></textarea>
+                    <textarea placeholder="Type Your Message" name="message">{{ old('message') }}</textarea>
                     @error('message')
                     <small class="text-danger">{{ $errors->first('message') }}</small>
                     @enderror
                     <div class="col-md-4">
                         <div class="captcha">
-                            <span>{!! captcha_img() !!}</span>
+                            <span>{!! captcha_img('mini') !!}</span>
                             <button type="button" class="btn btn-success btn-refresh"><i class="fa fa-refresh"></i></button>
                         </div>
                         <input id="captcha" type="text" class="form-control" placeholder="Enter Captcha" name="captcha">

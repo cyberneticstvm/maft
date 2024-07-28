@@ -142,15 +142,14 @@
             <div class="col-lg-4 col-md-6">
                 <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
-                    <a href="#" class="thumbnail-area">
-                        <img src="{{ ASSET('assets/images/service/01.jpg') }}" alt="Service-area">
+                    <a href="#" class="">
+                        <i class="fas fa-ship fa-5x text-orange"></i>
                     </a>
                     <div class="content-area">
                         <a href="#">
                             <h5 class="title">MARINE</h5>
                         </a>
-                        <p class="disc">Crsus cras faest diam natoe
-                            elementum mattis lectus</p>
+                        <p class="disc">Tools & Equipments used in Marine</p>
                         <a href="#" class="read-more-btn">Learn More <i class="fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
@@ -159,15 +158,14 @@
             <div class="col-lg-4 col-md-6">
                 <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
-                    <a href="#" class="thumbnail-area">
-                        <img src="assets/images/service/02.jpg" alt="Service-area">
+                    <a href="#" class="">
+                        <i class="fas fa-anchor fa-5x text-orange"></i>
                     </a>
                     <div class="content-area">
                         <a href="#">
                             <h5 class="title">OFFSHORE</h5>
                         </a>
-                        <p class="disc">Crsus cras faest diam natoe
-                            elementum mattis lectus</p>
+                        <p class="disc">Tools & Equipments used in Offshore</p>
                         <a href="#" class="read-more-btn">Learn More <i class="fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
@@ -176,15 +174,14 @@
             <div class="col-lg-4 col-md-6">
                 <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
-                    <a href="#" class="thumbnail-area">
-                        <img src="assets/images/service/03.jpg" alt="Service-area">
+                    <a href="#" class="">
+                        <i class="fas fa-cogs fa-5x text-orange"></i>
                     </a>
                     <div class="content-area">
                         <a href="#">
                             <h5 class="title">ENGINEERING</h5>
                         </a>
-                        <p class="disc">Crsus cras faest diam natoe
-                            elementum mattis lectus</p>
+                        <p class="disc">Tools & Equipments used in Engineering</p>
                         <a href="#" class="read-more-btn">Learn More <i class="fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
@@ -193,15 +190,14 @@
             <div class="col-lg-4 col-md-6">
                 <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
-                    <a href="#" class="thumbnail-area">
-                        <img src="assets/images/service/04.jpg" alt="Service-area">
+                    <a href="#" class="">
+                        <i class="fas fa-tint fa-5x text-orange"></i>
                     </a>
                     <div class="content-area">
                         <a href="#">
                             <h5 class="title">OIL & GAS</h5>
                         </a>
-                        <p class="disc">Crsus cras faest diam natoe
-                            elementum mattis lectus</p>
+                        <p class="disc">Tools & Equipments used in Oil & Gas Industry</p>
                         <a href="#" class="read-more-btn">Learn More <i class="fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
@@ -210,15 +206,14 @@
             <div class="col-lg-4 col-md-6">
                 <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
-                    <a href="#" class="thumbnail-area">
-                        <img src="assets/images/service/05.jpg" alt="Service-area">
+                    <a href="#" class="">
+                        <i class="fas fa-city fa-5x text-orange"></i>
                     </a>
                     <div class="content-area">
                         <a href="#">
                             <h5 class="title">CONSTRUCTION</h5>
                         </a>
-                        <p class="disc">Crsus cras faest diam natoe
-                            elementum mattis lectus</p>
+                        <p class="disc">Tools & Equipments used for Construction</p>
                         <a href="#" class="read-more-btn">Learn More <i class="fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
@@ -227,15 +222,14 @@
             <div class="col-lg-4 col-md-6">
                 <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
-                    <a href="#" class="thumbnail-area">
-                        <img src="assets/images/service/06.jpg" alt="Service-area">
+                    <a href="#" class="">
+                        <i class="fas fa-truck-loading fa-5x text-orange"></i>
                     </a>
                     <div class="content-area">
                         <a href="#">
                             <h5 class="title">INDUSTRIAL LIFTING</h5>
                         </a>
-                        <p class="disc">Crsus cras faest diam natoe
-                            elementum mattis lectus</p>
+                        <p class="disc">Tools & Equipments used in Industrial Lifting</p>
                         <a href="#" class="read-more-btn">Learn More <i class="fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
@@ -244,15 +238,14 @@
             <div class="col-lg-4 col-md-6">
                 <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
-                    <a href="#" class="thumbnail-area">
-                        <img src="assets/images/service/06.jpg" alt="Service-area">
+                    <a href="#" class="">
+                        <i class="fas fa-snowplow fa-5x text-orange"></i>
                     </a>
                     <div class="content-area">
                         <a href="#">
                             <h5 class="title">PILING & FOUNDATION</h5>
                         </a>
-                        <p class="disc">Crsus cras faest diam natoe
-                            elementum mattis lectus</p>
+                        <p class="disc">Tools & Equipments used in Piling & Foundation</p>
                         <a href="#" class="read-more-btn">Learn More <i class="fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
@@ -261,15 +254,14 @@
             <div class="col-lg-4 col-md-6">
                 <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
-                    <a href="#" class="thumbnail-area">
-                        <img src="assets/images/service/06.jpg" alt="Service-area">
+                    <a href="#" class="">
+                        <i class="fas fa-forklift fa-5x text-orange"></i>
                     </a>
                     <div class="content-area">
                         <a href="#">
                             <h5 class="title">CRANE & ENGINEERING</h5>
                         </a>
-                        <p class="disc">Crsus cras faest diam natoe
-                            elementum mattis lectus</p>
+                        <p class="disc">Tools & Equipments used in Crane & Engineering</p>
                         <a href="#" class="read-more-btn">Learn More <i class="fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>

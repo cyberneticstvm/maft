@@ -299,6 +299,8 @@
     <!-- swip image -->
     <script src="{{ asset('/assets/js/plugins/swip-img.js') }}"></script>
     <script src="{{ asset('/assets/js/script.js') }}"></script>
+
+    @include("message")
 </body>
 
 </html>

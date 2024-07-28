@@ -17,7 +17,7 @@ class ContactFormSubmitEmail extends Mailable
      * Create a new message instance.
      */
     public $data;
-    public function __construct()
+    public function __construct($request)
     {
         $this->data = $request;
     }
@@ -38,7 +38,7 @@ class ContactFormSubmitEmail extends Mailable
     public function content(): Content
     {
         return new Content(
-            view: 'web.contact-form-submit-email',
+            view: 'contact-form-submit-email',
             with: ['data' => $this->data],
         );
     }

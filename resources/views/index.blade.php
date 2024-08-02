@@ -272,4 +272,164 @@
     </div>
 </div>
 <!-- our service area end -->
+<div class="rts-blog-grid-area rts-section-gap">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 col-lg-12">
+                <div class="row">
+                    <div class="col-12">
+                        <span>PRODUCTS</span>
+                        <h2 class="title">
+                            Trusted Lifting Equipment Suppliers in UAE
+                        </h2>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-12">
+                        <!-- single blog two -->
+                        <div class="blog-single-two-wrapper shop">
+                            <div class="image-area">
+                                <a href="#" class="thumbnail">
+                                    <img src="{{ asset('/assets/images/products/Steel-Wire-Rope.jpg') }}" alt="Steel-Wire-Rope">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <a href="#">
+                                    <h5 class="title">STEEL WIRE ROPES</h5>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- single blog two end -->
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-12">
+                        <!-- single blog two -->
+                        <div class="blog-single-two-wrapper shop">
+                            <div class="image-area">
+                                <a href="#" class="thumbnail">
+                                    <img src="{{ asset('/assets/images/products/Shackles.jpg') }}" alt="Shackles">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <a href="#">
+                                    <h5 class="title">SHACKLES</h5>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- single blog two end -->
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-12">
+                        <!-- single blog two -->
+                        <div class="blog-single-two-wrapper shop">
+                            <div class="image-area">
+                                <a href="#" class="thumbnail">
+                                    <img src="{{ asset('/assets/images/products/SLINGS.png') }}" alt="Slings">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <a href="#">
+                                    <h5 class="title">SLINGS</h5>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- single blog two end -->
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-12">
+                        <!-- single blog two -->
+                        <div class="blog-single-two-wrapper shop">
+                            <div class="image-area">
+                                <a href="#" class="thumbnail">
+                                    <img src="{{ asset('/assets/images/products/Hoisting.jpg') }}" alt="Hoisting">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <a href="#">
+                                    <h5 class="title">HOISTING</h5>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- single blog two end -->
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-12">
+                        <!-- single blog two -->
+                        <div class="blog-single-two-wrapper shop">
+                            <div class="image-area">
+                                <a href="#" class="thumbnail">
+                                    <img src="{{ asset('/assets/images/products/Stainless-steel-products.png') }}" alt="Stainless-steel-products">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <a href="#">
+                                    <h5 class="title">STEEL PRODUCTS</h5>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- single blog two end -->
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-12">
+                        <!-- single blog two -->
+                        <div class="blog-single-two-wrapper shop">
+                            <div class="image-area">
+                                <a href="#" class="thumbnail">
+                                    <img src="{{ asset('/assets/images/products/Chain-End-Fittings.jpg') }}" alt="Chain-End-Fittings">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <a href="#">
+                                    <h5 class="title">CHAIN END FITTINGS</h5>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- single blog two end -->
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-12">
+                        <!-- single blog two -->
+                        <div class="blog-single-two-wrapper shop">
+                            <div class="image-area">
+                                <a href="#" class="thumbnail">
+                                    <img src="{{ asset('/assets/images/products/Lashing.jpg') }}" alt="Lashing">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <a href="#">
+                                    <h5 class="title">LASHING</h5>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- single blog two end -->
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-12">
+                        <!-- single blog two -->
+                        <div class="blog-single-two-wrapper shop">
+                            <div class="image-area">
+                                <a href="#" class="thumbnail">
+                                    <img src="{{ asset('/assets/images/products/Synthetic-Ropes.jpg') }}" alt="Synthetic-Ropes">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <a href="#">
+                                    <h5 class="title">SYNTHETIC ROPES</h5>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- single blog two end -->
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-12">
+                        <!-- single blog two -->
+                        <div class="blog-single-two-wrapper shop">
+                            <div class="image-area">
+                                <a href="#" class="thumbnail">
+                                    <img src="{{ asset('/assets/images/products/Marine-Products.png') }}" alt="Marine-Products">
+                                </a>
+                            </div>
+                            <div class="inner">
+                                <a href="#">
+                                    <h5 class="title">MARINE PRODUCTS</h5>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- single blog two end -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 @endsection("content")

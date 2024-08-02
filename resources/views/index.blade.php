@@ -34,12 +34,12 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="banner-content-12-wrapper with-thirteen">
-                                <span class="pre-title">Building Opportunities Creating Value</span>
+                                <span class="pre-title">Specialized supplier of top-notch safety and lifting gear</span>
                                 <h1 class="title-main">
-                                    Building Opportunities <br> Creating Value
+                                    INTEGRATED LIFTING EQUIPMENT <br> SUPPLIERS IN UAE
                                 </h1>
                                 <p class="disc">
-                                    Our workshops are designed to provide hands-on training, expert guidance, and practical experience, allowing participants.
+                                    Catering to a wide range of industries including Marine, Oil & Gas, Off-shore, Construction, Piling & Foundation, Crane, and Engineering
                                 </p>
                                 <a href="{{ route('contact') }}" class="rts-btn btn-primary icon-separete">Contact Us <i class="fa-regular fa-arrow-up-right"></i></a>
                             </div>
@@ -56,12 +56,12 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="banner-content-12-wrapper with-thirteen">
-                                <span class="pre-title">Building Opportunities Creating Value</span>
+                                <span class="pre-title">Specialized supplier of top-notch safety and lifting gear</span>
                                 <h1 class="title-main">
-                                    Building Opportunities <br> Creating Value
+                                    INTEGRATED LIFTING EQUIPMENT <br> SUPPLIERS IN UAE
                                 </h1>
                                 <p class="disc">
-                                    Our workshops are designed to provide hands-on training, expert guidance, and practical experience, allowing participants.
+                                    Catering to a wide range of industries including Marine, Oil & Gas, Off-shore, Construction, Piling & Foundation, Crane, and Engineering
                                 </p>
                                 <a href="{{ route('contact') }}" class="rts-btn btn-primary icon-separete">Contact Us <i class="fa-regular fa-arrow-up-right"></i></a>
                             </div>
@@ -78,12 +78,12 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="banner-content-12-wrapper with-thirteen">
-                                <span class="pre-title">Building Opportunities Creating Value</span>
+                                <span class="pre-title">Specialized supplier of top-notch safety and lifting gear</span>
                                 <h1 class="title-main">
-                                    Building Opportunities <br> Creating Value
+                                    INTEGRATED LIFTING EQUIPMENT <br> SUPPLIERS IN UAE
                                 </h1>
                                 <p class="disc">
-                                    Our workshops are designed to provide hands-on training, expert guidance, and practical experience, allowing participants.
+                                    Catering to a wide range of industries including Marine, Oil & Gas, Off-shore, Construction, Piling & Foundation, Crane, and Engineering
                                 </p>
                                 <a href="{{ route('contact') }}" class="rts-btn btn-primary icon-separete">Contact Us <i class="fa-regular fa-arrow-up-right"></i></a>
                             </div>
@@ -112,7 +112,7 @@
                             Manarat Al Falah Trading LLC - MAFT
                         </h2>
                         <p class="disc text-justify">
-                            We are a specialized supplier of top-notch lifting gear, catering to a wide range of industries including Marine, Oil & Gas, Off-shore, Construction, Piling & Foundation, Crane, and Engineering. With our unwavering commitment to quality, we take pride in delivering products that meet and exceed international standards.<br /><br />
+                            We are a specialized supplier of top-notch safety and lifting gear, catering to a wide range of industries including Marine, Oil & Gas, Off-shore, Construction, Piling & Foundation, Crane, and Engineering. With our unwavering commitment to quality, we take pride in delivering products that meet and exceed international standards.<br /><br />
                             At <a href="https://maft.ae" class="text-orange">MAFT</a>, our experienced team is dedicated to understanding anf fulfilling the unique needs of our customers. Drawing on our expertise and industry knowledge, we strive to provide tailored solution that optimize performance and ensure safety.<br /><br />
                             We emphasize the importance of adhering to stringent quality control measures throughout our manufacturing and supply processes. Each product undergoes rigorous testing and inspection to guarantee, reliability, durability, and compaliance with international standards.<br /><br />
                             Whether you require lifting gear for Marine applications, Oil & Gas projects, Offshore installations, Construction sites, Piling and Foundation work, or Engineering Ventures, <a href="https://maft.ae" class="text-orange">MAFT</a> is your trusted partner. We are committed to providing exceptional products that empower your operations and contribute to your success.

@@ -50,7 +50,7 @@
                     <div class="header-mid-one-wrapper">
                         <div class="logo-area">
                             <a href="{{ route('index') }}">
-                                <img src="{{ asset('/assets/images/logo/maft-logo-small.png') }}" alt="maft logo">
+                                <img src="{{ asset('/assets/images/logo/maft-logo-final.webp') }}" alt="maft logo">
                             </a>
                         </div>
                         <div class="header-right">
@@ -133,10 +133,10 @@
                     <div class="main-footer-wrapper-two">
                         <div class="single-footer-wized-two logo-area" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
                             <a href="{{ route('index') }}" class="logo">
-                                <img src="{{ asset('/assets/images/logo/maft-logo-small.png') }}" alt="maft-logo">
+                                <img src="{{ asset('/assets/images/logo/maft-logo-footer.webp') }}" alt="maft-logo">
                             </a>
                             <p class="disc-f">
-                                We are a specialized supplier of top-notch lifting gear, catering to a wide range of industries including Marine, Oil & Gas, Off-shore, Construction, Piling & Foundation, Crane, and Engineering.
+                                We are a specialized supplier of top-notch lifting and safety equipments, catering to a wide range of industries including Marine, Oil & Gas, Off-shore, Construction, Piling & Foundation, Crane, and Engineering.
                             </p>
                             <div class="rts-social-wrapper-three">
                                 <ul>

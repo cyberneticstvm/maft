@@ -736,22 +736,6 @@
                         <div class="blog-single-two-wrapper shop">
                             <div class="image-area">
                                 <a href="#" class="thumbnail">
-                                    <img src="{{ asset('/assets/images/products/wire-rope.jpg') }}" alt="Wire Rope">
-                                </a>
-                            </div>
-                            <div class="inner">
-                                <a href="#">
-                                    <h5 class="title">Wire Rope</h5>
-                                </a>
-                            </div>
-                        </div>
-                        <!-- single blog two end -->
-                    </div>
-                    <div class="col-lg-3 col-md-3 col-sm-3 col-12">
-                        <!-- single blog two -->
-                        <div class="blog-single-two-wrapper shop">
-                            <div class="image-area">
-                                <a href="#" class="thumbnail">
                                     <img src="{{ asset('/assets/images/products/wire-rope-winches.jpg') }}" alt="Wire Rope Winches">
                                 </a>
                             </div>
@@ -768,12 +752,12 @@
                         <div class="blog-single-two-wrapper shop">
                             <div class="image-area">
                                 <a href="#" class="thumbnail">
-                                    <img src="{{ asset('/assets/images/products/lg-pallet-truck.jpg') }}" alt="Lg Pallet Truck">
+                                    <img src="{{ asset('/assets/images/products/lg-pallet-truck.jpg') }}" alt="Pallet Truck">
                                 </a>
                             </div>
                             <div class="inner">
                                 <a href="#">
-                                    <h5 class="title">Lg Pallet Truck</h5>
+                                    <h5 class="title">Pallet Truck</h5>
                                 </a>
                             </div>
                         </div>
@@ -833,12 +817,12 @@
                         <div class="blog-single-two-wrapper shop">
                             <div class="image-area">
                                 <a href="#" class="thumbnail">
-                                    <img src="{{ asset('/assets/images/products/lg-cargo-lashing.jpg') }}" alt="Lg Cargo Lashing">
+                                    <img src="{{ asset('/assets/images/products/lg-cargo-lashing.jpg') }}" alt="Cargo Lashing">
                                 </a>
                             </div>
                             <div class="inner">
                                 <a href="#">
-                                    <h5 class="title">Lg Cargo Lashing</h5>
+                                    <h5 class="title">Cargo Lashing</h5>
                                 </a>
                             </div>
                         </div>

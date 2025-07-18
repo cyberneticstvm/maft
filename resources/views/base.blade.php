@@ -60,7 +60,7 @@
                                 </div>
                                 <div class="info">
                                     <span>Call Us</span>
-                                    <a href="tel:+971501003687">+971 50 100 3687</a>
+                                    <a href="tel:+97165791070">+971 6 579 1070</a>
                                 </div>
                             </div>
                             <!-- sinle map area -->
@@ -160,6 +160,9 @@
                                     </ul>
                                 </div>
                             </div>
+                            <div class="iso">
+                                <img src="{{ asset('/assets/images/i.png') }}" />
+                            </div>
                         </div>
                         <div class="single-footer-wized-two user-number" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
                             <div class="user-number-wrapper mt--10">
@@ -168,7 +171,7 @@
                                     <h6 class="title">Phone Number</h6>
                                     <div class="number">
                                         <i class="fa-solid fa-phone"></i>
-                                        <a href="tel:+971501003687">+971 50 100 3687</a>
+                                        <a href="tel:+97165791070">+971 6 579 1070</a>
                                     </div>
                                 </div>
                                 <!-- single number end -->

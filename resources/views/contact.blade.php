@@ -16,9 +16,6 @@
                         </div>
                         <div class="info">
                             <span>Call Us 24/7</span>
-                            <a href="tel:+971501003687">
-                                <h5>+971 50 100 3687</h5>
-                            </a>
                             <a href="tel:+97165791070">
                                 <h5>+971 6 579 1070</h5>
                             </a>

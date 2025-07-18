@@ -136,7 +136,7 @@
                                 <img src="{{ asset('/assets/images/logo/maft-logo-footer.webp') }}" alt="maft-logo">
                             </a>
                             <p class="disc-f">
-                                We are a specialized supplier of top-notch lifting and safety equipments, catering to a wide range of industries including Marine, Oil & Gas, Off-shore, Construction, Piling & Foundation, Crane, and Engineering.
+                                We are ISO 9001:2015 Certified specialized supplier of top-notch lifting and safety equipments, catering to a wide range of industries including Marine, Oil & Gas, Off-shore, Construction, Piling & Foundation, Crane, and Engineering.
                             </p>
                             <div class="rts-social-wrapper-three">
                                 <ul>

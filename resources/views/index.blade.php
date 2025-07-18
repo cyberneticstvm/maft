@@ -111,6 +111,7 @@
                         <h2 class="title">
                             Manarat Al Falah Trading LLC - MAFT
                         </h2>
+                        <h5>We are now ISO 9001:2015 Certified from Emirates International Accreditation Centre</h5>
                         <p class="disc text-justify">
                             We are a specialized supplier of top-notch safety and lifting gear, catering to a wide range of industries including Marine, Oil & Gas, Off-shore, Construction, Piling & Foundation, Crane, and Engineering. With our unwavering commitment to quality, we take pride in delivering products that meet and exceed international standards.<br /><br />
                             At <a href="https://maft.ae" class="text-orange">MAFT</a>, our experienced team is dedicated to understanding anf fulfilling the unique needs of our customers. Drawing on our expertise and industry knowledge, we strive to provide tailored solution that optimize performance and ensure safety.<br /><br />

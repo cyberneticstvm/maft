@@ -70,7 +70,7 @@
                                 </div>
                                 <div class="info">
                                     <span>Our Location</span>
-                                    <a href="#">Industrial Area 1, Sharjah, UAE</a>
+                                    <a href="#">Sharjah, UAE</a>
                                 </div>
                             </div>
                             <!-- sinle map area -->

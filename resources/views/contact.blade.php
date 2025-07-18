@@ -57,7 +57,7 @@
                         <div class="info">
                             <span>Service Station</span>
                             <a href="#">
-                                <h5>Industrial Area 1, Sharjah, UAE</h5>
+                                <h5>Sharjah, UAE</h5>
                             </a>
                         </div>
                     </div>

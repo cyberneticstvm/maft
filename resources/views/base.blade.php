@@ -189,7 +189,7 @@
                                     <h6 class="title">Office Location</h6>
                                     <div class="number">
                                         <i class="fa-light fa-location-dot"></i>
-                                        <a class="mt-dec" href="#">Industrial Area 1, Sharjah, UAE</a>
+                                        <a class="mt-dec" href="#">Sharjah, UAE</a>
                                     </div>
                                 </div>
                                 <!-- single number end -->

@@ -8,9 +8,9 @@
                 <div class="breadcrumb-inner text-center">
                     <h1 class="text-white">{{ $title }}</h1>
                     <div class="meta">
-                        <a href="{{ route('index') }}" class="prev text-gold">Home/</a>
-                        <a href="{{ route('products') }}" class="prev">products/</a>
-                        <a href="{{ route('product1') }}" class="next">project Details</a>
+                        <a href="{{ route('index') }}" class="prev text-white">Home/</a>
+                        <a href="{{ route('products') }}" class="prev text-white">products/</a>
+                        <a href="{{ route('product1') }}" class="next text-white">project Details</a>
                     </div>
                 </div>
                 <!-- bread crumb inner wrapper end -->

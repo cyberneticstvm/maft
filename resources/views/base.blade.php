@@ -7,8 +7,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="{{ asset('/assets/images/favicon.png') }}">
-    <title>Manarat Al Falah Trading LLC - Premium Lifting & Safety Equipments Supplier</title>
-
+    <title>{{ $title }}</title>
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{ $title }}" />
+    <meta property="og:description" content="{{ $description }}" />
+    <meta property="og:url" content="{{ $canonical_url }}" />
+    <meta property="og:site_name" content="MANARAT AL FALAH TRADING LLC" />
+    <meta property="og:updated_time" content="2025-10-07T10:00:33+04:00" />
+    <meta property="article:published_time" content="2025-10-07T11:05:13+04:00" />
+    <meta property="article:modified_time" content="2025-10-07T10:00:33+04:00" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{{ $title }}" />
+    <meta name="twitter:description" content="{{ $description }}" />
+    <meta name="twitter:label1" content="Time to read" />
+    <meta name="twitter:data1" content="5 minutes" />
     <!-- fontawesome css -->
     <link rel="stylesheet" href="{{ asset('/assets/css/plugins/fontawesome-5.css') }}">
     <!-- fontawesome css -->

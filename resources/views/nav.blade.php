@@ -9,7 +9,7 @@
         <li class="has-droupdown pages">
             <a class="nav-link" href="#">Products</a>
             <ul class="submenu inner-page">
-                <li><a href="{{ route('index') }}">LG-Snatch block & Tirfor</a></li>
+                <li><a href="{{ route('product1') }}">LG-Snatch block & Tirfor</a></li>
                 <li><a href="{{ route('index') }}">Ratchet Load Binders</a></li>
                 <li><a href="{{ route('index') }}">LG-Lever hoist</a></li>
                 <li><a href="{{ route('index') }}">LG-Beam & Geared Trolley</a></li>
@@ -37,7 +37,10 @@
             </ul>
         </li>
         <li class="has-droupdown">
-            <a class="nav-item text-dark" href="{{ route('contact') }}">Contact</a>
+            <a class="nav-link text-dark" href="{{ route('index') }}">Blogs</a>
+        </li>
+        <li class="has-droupdown">
+            <a class="nav-link text-dark" href="{{ route('contact') }}">Contact</a>
         </li>
     </ul>
 </nav>

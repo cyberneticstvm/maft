@@ -19872,6 +19872,11 @@ edit .quantity-edit button {
   }
 }
 
+.breadcrumb-inner{
+  background-color: #ff6600 !important;
+  opacity: .8;
+}
+
 .bg-breadcrumb1 {
   background-image: url(../images/bg/bcbg1.png);
 }

@@ -35,7 +35,7 @@
     <!-- bootstrap css -->
     <link rel="stylesheet" href="{{ asset('/assets/css/vendor/bootstrap.min.css') }}">
     <!-- main css -->
-    <link rel="stylesheet" href="{{ asset('/assets/css/style.css') }}">
+    <link rel="stylesheet" href="{{ asset('/assets/css/style.css?v=1') }}">
 </head>
 
 <body class="index-twelve">

@@ -1,6 +1,6 @@
 @extends("base")
 @section("content")
-<div class="rts-bread-crumb-area ptb--150 ptb_sm--100 bg-breadcrumb bg_image">
+<div class="rts-bread-crumb-area ptb--150 ptb_sm--100 bg-breadcrumb1 bg_image">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">

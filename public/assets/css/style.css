@@ -19872,8 +19872,11 @@ edit .quantity-edit button {
   }
 }
 
-.bg-breadcrumb {
-  background-image: url(../images/bg/bcbg1.jpg);
+.bg-breadcrumb1 {
+  background-image: url(../images/bg/bcbg1.png);
+}
+.bg-breadcrumb1 {
+  background-image: url(../images/bg/bcbg1.png);
 }
 
 .breadcrumb-inner .title {

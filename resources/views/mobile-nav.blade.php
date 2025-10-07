@@ -10,7 +10,7 @@
             <li class="has-droupdown">
                 <a class="nav-link" href="#">Products</a>
                 <ul class="submenu inner-page">
-                    <li><a class="mobile-menu-link" href="{{ route('index') }}">LG-Snatch block & Tirfor</a></li>
+                    <li><a class="mobile-menu-link" href="{{ route('product1') }}">LG-Snatch block & Tirfor</a></li>
                     <li><a class="mobile-menu-link" href="{{ route('index') }}">Ratchet Load Binders</a></li>
                     <li><a class="mobile-menu-link" href="{{ route('index') }}">LG-Lever hoist</a></li>
                     <li><a class="mobile-menu-link" href="{{ route('index') }}">LG-Beam & Geared Trolley</a></li>

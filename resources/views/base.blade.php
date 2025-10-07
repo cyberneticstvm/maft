@@ -10,6 +10,7 @@
     <title>{{ $title ?? '' }}</title>
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
+    <meta property="og:image" content="{{ asset('/assets/images/logo/maft-logo-final.webp') }}">
     <meta property="og:title" content="{{ $title ?? '' }}" />
     <meta property="og:description" content="{{ $description ?? '' }}" />
     <meta property="og:url" content="{{ $canonical_url ?? '' }}" />

@@ -6,7 +6,7 @@
             <div class="col-12">
                 <div class="wrapper-404 text-center">
                     <div class="thumbnail">
-                        <img src="assets/images/contact/04.png" alt="">
+                        <img src="{{ asset('/assets/images/contact/04.png') }}" alt="">
                     </div>
                     <h2 class="title mt--40">
                         Oops! Nothing Was Found

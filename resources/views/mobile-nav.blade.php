@@ -38,6 +38,9 @@
                 </ul>
             </li>
             <li>
+                <a class="main" href="{{ route('index') }}">Blogs</a>
+            </li>
+            <li>
                 <a class="main" href="{{ route('contact') }}">Contact</a>
             </li>
         </ul>

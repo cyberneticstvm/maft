@@ -14,6 +14,6 @@ Route::middleware(['web'])->group(function () {
     });
 
     Route::prefix('product')->controller(WebController::class)->group(function () {
-        Route::get('lg-snatch-block-and-tirfor', 'product1')->name('product1');
+        Route::get('snatch-block-and-tirfor-winch', 'product1')->name('product1');
     });
 });

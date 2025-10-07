@@ -24,20 +24,20 @@
             <div class="col-12">
                 <div class="product-details-main-inner" data-sal="slide-up" data-sal-delay="150" data-sal-duration="900">
                     <span>Manarat Al Falah Trading LLC (MAFT)</span>
-                    <h3 class="title animated fadeIn">LG Snatch Block and Tirfor Winch | Heavy-Duty Lifting and Pulling Solutions</h3>
-                    <p class="disc">At Manarat Al Falah Trading LLC (MAFT), we supply high-performance LG Snatch Blocks and Tirfor winches engineered for safe and efficient lifting, pulling, and rigging operations. Whether you're working in construction, marine, oil & gas, or industrial sectors, our range of lifting equipment ensures reliability and durability under demanding conditions.</p>
+                    <h3 class="title animated fadeIn">Snatch Block and Tirfor Winch | Heavy-Duty Lifting and Pulling Solutions</h3>
+                    <p class="disc">At Manarat Al Falah Trading LLC (MAFT), we supply high-performance Snatch Blocks and Tirfor winches engineered for safe and efficient lifting, pulling, and rigging operations. Whether you're working in construction, marine, oil & gas, or industrial sectors, our range of lifting equipment ensures reliability and durability under demanding conditions.</p>
                     <p class="italic">
-                        “Discover premium LG Snatch Blocks and Tirfor winches at Manarat Al Falah Trading LLC – trusted safety and lifting equipment supplier in UAE. Ideal for heavy-duty lifting and pulling operations. Request a quote today.”</p>
+                        “Discover premium Snatch Blocks and Tirfor winches at Manarat Al Falah Trading LLC – trusted safety and lifting equipment supplier in UAE. Ideal for heavy-duty lifting and pulling operations. Request a quote today.”</p>
                 </div>
             </div>
         </div>
         <div class="row g-5">
             <div class="col-12">
-                <h3 class="title mb--0 animated fadeIn" data-sal="slide-up" data-sal-delay="150" data-sal-duration="900">LG Snatch Block</h3>
-                <p>The LG Snatch Block is a robust pulley system used to redirect or multiply the pulling force in lifting applications. Designed with a side-opening feature, it allows quick and easy rope insertion without unreeving.</p>
+                <h3 class="title mb--0 animated fadeIn" data-sal="slide-up" data-sal-delay="150" data-sal-duration="900">Snatch Block</h3>
+                <p>The Snatch Block is a robust pulley system used to redirect or multiply the pulling force in lifting applications. Designed with a side-opening feature, it allows quick and easy rope insertion without unreeving.</p>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 pr--80">
-                <h4>LG Snatch Block Features</h4>
+                <h4>Snatch Block Features</h4>
                 <div class="single-project-details-challenge">
                     <div class="icon">
                         <i class="far fa-check-circle"></i>
@@ -89,7 +89,7 @@
             </div>
 
             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 pr--80">
-                <h4>LG Snatch Block Applications</h4>
+                <h4>Snatch Block Applications</h4>
                 <div class="single-project-details-challenge">
                     <div class="icon">
                         <i class="far fa-check-circle"></i>
@@ -126,7 +126,7 @@
         </div>
         <div class="row g-5 mt-5">
             <div class="col-12">
-                <h3 class="title mb--0 animated fadeIn" data-sal="slide-up" data-sal-delay="150" data-sal-duration="900">Tirfor Winch (Wire Rope Hoist)</h3>
+                <h3 class="title mb--0 animated fadeIn" data-sal="slide-up" data-sal-delay="150" data-sal-duration="900">Tirfor Winch (Wire Rope Winch)</h3>
                 <p>The Tirfor winch (also known as a griphoist) is a portable manual hoist that uses a wire rope to lift, pull, and position heavy loads with precision and safety. It’s an ideal solution where powered lifting is not feasible.</p>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 pr--80">
@@ -230,22 +230,22 @@
                 <div class="row g-24">
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <a href="#" class="thumbnail">
-                            <img src="{{ asset('/assets/images/products/product/lg-snatch-block1.png') }}" alt="LG Snatch Block | Manarat Al Falah Trading LLC">
+                            <img src="{{ asset('/assets/images/products/product/snatch-block1.png') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <a href="#" class="thumbnail">
-                            <img src="{{ asset('/assets/images/products/product/lg-snatch-block2.png') }}" alt="LG Snatch Block | Manarat Al Falah Trading LLC">
+                            <img src="{{ asset('/assets/images/products/product/snatch-block2.png') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <a href="#" class="thumbnail">
-                            <img src="{{ asset('/assets/images/products/product/lg-snatch-block3.png') }}" alt="LG Snatch Block | Manarat Al Falah Trading LLC">
+                            <img src="{{ asset('/assets/images/products/product/snatch-block3.png') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <a href="#" class="thumbnail">
-                            <img src="{{ asset('/assets/images/products/product/lg-snatch-block4.png') }}" alt="LG Snatch Block | Manarat Al Falah Trading LLC">
+                            <img src="{{ asset('/assets/images/products/product/snatch-block4.png') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
                         </a>
                     </div>
                 </div>

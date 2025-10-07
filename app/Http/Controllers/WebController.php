@@ -67,9 +67,9 @@ class WebController extends Controller
 
     function product1()
     {
-        $title = "MAFT: LG Snatch block and tirfor supplier in UAE";
-        $description = "MAFT: Your trusted LG Snatch block and tirfor supplier in UAE. Ideal for heavy-duty lifting and pulling operations. Request a quote today";
-        $canonical_url = "https://maft.ae/product/lg-snatch-block-and-tirfor";
-        return view('product.lg-snatch-block-and-tirfor', compact('title', 'description', 'canonical_url'));
+        $title = "MAFT: Snatch block and tirfor winch supplier in UAE";
+        $description = "MAFT: Your trusted Snatch block and tirfor winch supplier in UAE. Ideal for heavy-duty lifting and pulling operations. Request a quote today";
+        $canonical_url = "https://maft.ae/product/snatch-block-and-tirfor-winch";
+        return view('product.snatch-block-and-tirfor-winch', compact('title', 'description', 'canonical_url'));
     }
 }

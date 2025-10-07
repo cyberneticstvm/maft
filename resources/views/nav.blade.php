@@ -9,15 +9,15 @@
         <li class="has-droupdown pages">
             <a class="nav-link" href="#">Products</a>
             <ul class="submenu inner-page">
-                <li><a href="{{ route('product1') }}">LG-Snatch block & Tirfor</a></li>
+                <li><a href="{{ route('product1') }}">Snatch block & Tirfor Winch</a></li>
                 <li><a href="{{ route('index') }}">Ratchet Load Binders</a></li>
-                <li><a href="{{ route('index') }}">LG-Lever hoist</a></li>
-                <li><a href="{{ route('index') }}">LG-Beam & Geared Trolley</a></li>
-                <li><a href="{{ route('index') }}">LG-Cargo Lashing</a></li>
-                <li><a href="{{ route('index') }}">LG-Round Sling</a></li>
-                <li><a href="{{ route('index') }}">LG-Shackle</a></li>
-                <li><a href="{{ route('index') }}">LG-Vertical & Horizontal plate clamp</a></li>
-                <li><a href="{{ route('index') }}">LG-Chain block</a></li>
+                <li><a href="{{ route('index') }}">Lever hoist</a></li>
+                <li><a href="{{ route('index') }}">Beam & Geared Trolley</a></li>
+                <li><a href="{{ route('index') }}">Cargo Lashing</a></li>
+                <li><a href="{{ route('index') }}">Round Sling</a></li>
+                <li><a href="{{ route('index') }}">Shackle</a></li>
+                <li><a href="{{ route('index') }}">Vertical & Horizontal plate clamp</a></li>
+                <li><a href="{{ route('index') }}">Chain block</a></li>
                 <li><a href="{{ route('index') }}">5tonne Pallet truck</a></li>
                 <li><a href="{{ route('index') }}">Safe lift- magentic lifter</a></li>
                 <li><a href="{{ route('index') }}">SAFE LIFT ELECTRIC CHAIN BLOCK 0.5 ton to 15 ton</a></li>

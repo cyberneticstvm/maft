@@ -5,9 +5,9 @@
         <div class="row">
             <div class="col-lg-12">
                 <!-- bread crumb inner wrapper -->
-                <div class="breadcrumb-inner text-center">
+                <div class="breadcrumb-inner text-center bg-secondary">
                     <h1 class="text-white">{{ $title }}</h1>
-                    <div class="meta bg-secondary">
+                    <div class="meta">
                         <a href="{{ route('index') }}" class="prev text-white">Home/</a>
                         <a href="{{ route('products') }}" class="prev text-white">products/</a>
                         <a href="{{ route('product1') }}" class="next text-white">project Details</a>

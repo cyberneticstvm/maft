@@ -5,7 +5,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <!-- bread crumb inner wrapper -->
-                <div class="breadcrumb-inner text-center">
+                <div class="breadcrumb-inner text-center breadcrumb-inner-bg">
                     <h1 class="text-white">{{ $title }}</h1>
                     <div class="meta">
                         <a href="{{ route('index') }}" class="prev text-white">Home/</a>

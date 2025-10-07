@@ -10,16 +10,16 @@
     <title>{{ $title }}</title>
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="{{ $title }}" />
-    <meta property="og:description" content="{{ $description }}" />
-    <meta property="og:url" content="{{ $canonical_url }}" />
+    <meta property="og:title" content="{{ $title ?? '' }}" />
+    <meta property="og:description" content="{{ $description ?? '' }}" />
+    <meta property="og:url" content="{{ $canonical_url ?? '' }}" />
     <meta property="og:site_name" content="MANARAT AL FALAH TRADING LLC" />
     <meta property="og:updated_time" content="2025-10-07T10:00:33+04:00" />
     <meta property="article:published_time" content="2025-10-07T11:05:13+04:00" />
     <meta property="article:modified_time" content="2025-10-07T10:00:33+04:00" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="{{ $title }}" />
-    <meta name="twitter:description" content="{{ $description }}" />
+    <meta name="twitter:title" content="{{ $title ?? '' }}" />
+    <meta name="twitter:description" content="{{ $description ?? '' }}" />
     <meta name="twitter:label1" content="Time to read" />
     <meta name="twitter:data1" content="5 minutes" />
     <!-- fontawesome css -->

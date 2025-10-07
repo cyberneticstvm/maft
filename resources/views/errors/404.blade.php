@@ -13,7 +13,7 @@
                     </h2>
                     <p class="disc">Sorry, we couldn’t find the page you where looking for. We suggest <br> that you
                         return to homepage.</p>
-                    <a class="rts-btn btn-primary" href="index.html">Back To Homepage</a>
+                    <a class="rts-btn btn-primary" href="{{ route('index') }}">Back To Homepage</a>
                 </div>
             </div>
         </div>

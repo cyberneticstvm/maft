@@ -1,29 +1,5 @@
 @extends("base")
 @section("content")
-<div id="side-bar" class="side-bar header-three">
-    <button class="close-icon-menu"><i class="far fa-times"></i></button>
-    <!-- inner menu area desktop start -->
-    <div class="inner-main-wrapper-desk">
-        <div class="thumbnail">
-            <img src="{{ asset('/assets/images/banner/04.jpg') }}" alt="elevate">
-        </div>
-        <div class="inner-content">
-            <h4 class="title">We Build Building and Great Constructive Homes.</h4>
-            <p class="disc">
-                We successfully cope with tasks of varying complexity, provide long-term guarantees and regularly master new technologies.
-            </p>
-            <div class="footer">
-                <h4 class="title">Got a project in mind?</h4>
-                <a href="{{ route('contact') }}" class="rts-btn btn-seconday">Let's talk</a>
-            </div>
-        </div>
-    </div>
-    <!-- mobile menu area start -->
-    @include('mobile-nav')
-    <!-- mobile menu area end -->
-</div>
-
-
 <!-- rts banner swiper wrapper -->
 <div class="swiper mySwiper-bannner-12">
     <div class="swiper-wrapper">

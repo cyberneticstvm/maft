@@ -72,4 +72,68 @@ class WebController extends Controller
         $canonical_url = "https://maft.ae/product/snatch-block-and-tirfor-winch";
         return view('product.snatch-block-and-tirfor-winch', compact('title', 'description', 'canonical_url'));
     }
+
+    function product2()
+    {
+        $title = "Buy Ratchet Load Binders in UAE | Heavy-Duty Cargo Securing | MAFT Dubai";
+        $description = "Looking for high-quality ratchet load binders in the UAE? MAFT offers durable, heavy-duty ratchet binders for secure cargo tie-downs. Fast delivery in Dubai & across the UAE.";
+        $canonical_url = "https://maft.ae/product/ratchet-load-binders";
+        return view('product.ratchet-load-binders', compact('title', 'description', 'canonical_url'));
+    }
+
+    function product3()
+    {
+        $title = "MAFT Lever Hoist – High-Performance Manual Lifting Tool";
+        $description = "Buy durable lever hoists in UAE from MAFT – designed for reliable manual lifting and load handling in industrial, construction, and warehouse operations.";
+        $canonical_url = "https://maft.ae/product/lever-hoist";
+        return view('product.lever-hoist', compact('title', 'description', 'canonical_url'));
+    }
+
+    function product4()
+    {
+        $title = "Heavy-Duty Beam & Geared Trolley – MAFT UAE";
+        $description = "Buy high-quality beam and geared trolleys in UAE from MAFT – durable, adjustable, and safe solutions for lifting and load transportation needs.";
+        $canonical_url = "https://maft.ae/product/beam-and-geared-trolley";
+        return view('product.beam-and-geared-trolley', compact('title', 'description', 'canonical_url'));
+    }
+
+    function product5()
+    {
+        $title = "Heavy-Duty Cargo Lashing Straps – MAFT UAE";
+        $description = "Buy premium cargo lashing straps in UAE from MAFT – strong, adjustable, and safe load securing solutions for transport, shipping, and logistics.";
+        $canonical_url = "https://maft.ae/product/cargo-lashing";
+        return view('product.cargo-lashing', compact('title', 'description', 'canonical_url'));
+    }
+
+    function product6()
+    {
+        $title = "Durable Round Slings – Safe Lifting Solutions UAE";
+        $description = "Buy high-quality polyester round slings in UAE from MAFT – lightweight, durable, and safe lifting solutions for industrial and construction use.";
+        $canonical_url = "https://maft.ae/product/round-sling";
+        return view('product.round-sling', compact('title', 'description', 'canonical_url'));
+    }
+
+    function product7()
+    {
+        $title = "Durable Steel Shackles – Reliable Load Connection | MAFT UAE";
+        $description = "Discover high-strength shackles for safe and secure lifting operations. Trusted by industries across the UAE. Available now at MAFT.";
+        $canonical_url = "https://maft.ae/product/shackle";
+        return view('product.shackle', compact('title', 'description', 'canonical_url'));
+    }
+
+    function product8()
+    {
+        $title = "Plate Clamps Supplier UAE | MAFT";
+        $description = "Get certified vertical & horizontal plate clamps in UAE. Heavy-duty, safe & reliable lifting solutions from MAFT – trusted safety equipment supplier.";
+        $canonical_url = "https://maft.ae/product/vertical-and-horizontal-plate-clamp";
+        return view('product.vertical-and-horizontal-plate-clamp', compact('title', 'description', 'canonical_url'));
+    }
+
+    function product9()
+    {
+        $title = "Chain Block Supplier in UAE | MAFT    ";
+        $description = "Durable and certified chain blocks for heavy lifting. Available in various capacities. MAFT – trusted safety & lifting equipment supplier in UAE.";
+        $canonical_url = "https://maft.ae/product/chain-block";
+        return view('product.chain-block', compact('title', 'description', 'canonical_url'));
+    }
 }

@@ -10,24 +10,24 @@
             <a class="nav-link" href="#">Products</a>
             <ul class="submenu inner-page">
                 <li><a href="{{ route('product1') }}">Snatch block & Tirfor Winch</a></li>
-                <li><a href="{{ route('index') }}">Ratchet Load Binders</a></li>
-                <li><a href="{{ route('index') }}">Lever hoist</a></li>
-                <li><a href="{{ route('index') }}">Beam & Geared Trolley</a></li>
-                <li><a href="{{ route('index') }}">Cargo Lashing</a></li>
-                <li><a href="{{ route('index') }}">Round Sling</a></li>
-                <li><a href="{{ route('index') }}">Shackle</a></li>
-                <li><a href="{{ route('index') }}">Vertical & Horizontal plate clamp</a></li>
-                <li><a href="{{ route('index') }}">Chain block</a></li>
-                <li><a href="{{ route('index') }}">5tonne Pallet truck</a></li>
-                <li><a href="{{ route('index') }}">Safe lift- magentic lifter</a></li>
-                <li><a href="{{ route('index') }}">SAFE LIFT ELECTRIC CHAIN BLOCK 0.5 ton to 15 ton</a></li>
-                <li><a href="{{ route('index') }}">Lifting Gear-Catalogue </a></li>
-                <li><a href="{{ route('index') }}">chain-slings-LNS</a></li>
-                <li><a href="{{ route('index') }}">Wire rope sling</a></li>
-                <li><a href="{{ route('index') }}">Double webbing lanyard</a></li>
-                <li><a href="{{ route('index') }}">Full body harness</a></li>
-                <li><a href="{{ route('index') }}">Retractable fall arrester block</a></li>
-                <li><a href="{{ route('index') }}">Anchorage life line rope</a></li>
+                <li><a href="{{ route('product2') }}">Ratchet Load Binders</a></li>
+                <li><a href="{{ route('product3') }}">Lever hoist</a></li>
+                <li><a href="{{ route('product4') }}">Beam & Geared Trolley</a></li>
+                <li><a href="{{ route('product5') }}">Cargo Lashing</a></li>
+                <li><a href="{{ route('product6') }}">Round Sling</a></li>
+                <li><a href="{{ route('product7') }}">Shackle</a></li>
+                <li><a href="{{ route('product8') }}">Vertical & Horizontal plate clamp</a></li>
+                <li><a href="{{ route('product9') }}">Chain block</a></li>
+                <li><a href="{{ route('product10') }}">5tonne Pallet truck</a></li>
+                <li><a href="{{ route('product11') }}">Safe lift- magnetic lifter</a></li>
+                <li><a href="{{ route('product12') }}">Safe Lift Eletctric Chain Block 0.5 ton to 15 ton</a></li>
+                <li><a href="{{ route('product13') }}">Lifting Gear-Catalogue </a></li>
+                <li><a href="{{ route('product14') }}">chain-slings-LNS</a></li>
+                <li><a href="{{ route('product15') }}">Wire rope sling</a></li>
+                <li><a href="{{ route('product16') }}">Double webbing lanyard</a></li>
+                <li><a href="{{ route('product17') }}">Full body harness</a></li>
+                <li><a href="{{ route('product18') }}">Retractable fall arrester block</a></li>
+                <li><a href="{{ route('product19') }}">Anchorage life line rope</a></li>
             </ul>
         </li>
         <li class="has-droupdown pages">

@@ -11,7 +11,7 @@
                 <div class="meta text-end">
                     <a href="{{ route('index') }}" class="prev">Home/</a>
                     <a href="{{ route('products') }}" class="prev">products/</a>
-                    <a href="{{ route('product1') }}" class="next">project Details</a>
+                    <a href="{{ route('product1') }}" class="next">Snatch block and tirfor winch supplier in UAE</a>
                 </div>
                 <!-- bread crumb inner wrapper end -->
             </div>

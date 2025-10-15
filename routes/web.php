@@ -23,12 +23,12 @@ Route::middleware(['web'])->group(function () {
         Route::get('shackle', 'product7')->name('product7');
         Route::get('vertical-and-horizontal-plate-clamp', 'product8')->name('product8');
         Route::get('chain-block', 'product9')->name('product9');
-        Route::get('5tonne-pallet-truck', 'product10')->name('product10');
-        Route::get('safe-lift-magnetic-lifter', 'product11')->name('product11');
-        Route::get('safe-lift-electric-chain-block-0.5-ton-to-15-ton', 'product12')->name('product12');
-        Route::get('lifting-gear-catalogue', 'product13')->name('product13');
-        Route::get('chain-sling-lns', 'product14')->name('product14');
-        Route::get('wire-rope-sling', 'product15')->name('product15');
+        Route::get('5-tonne-pallet-truck', 'product10')->name('product10');
+        Route::get('magnetic-lifter', 'product11')->name('product11');
+        Route::get('electric-chain-block-0.5-ton-to-15-ton', 'product12')->name('product12');
+        Route::get('lifting-gear', 'product13')->name('product13');
+        Route::get('chain-slings', 'product14')->name('product14');
+        Route::get('wire-rope-slings', 'product15')->name('product15');
         Route::get('double-webbing-lanyard', 'product16')->name('product16');
         Route::get('full-body-harness', 'product17')->name('product17');
         Route::get('retractable-fall-arrester-block', 'product18')->name('product18');

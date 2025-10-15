@@ -18,7 +18,7 @@
                 <li><a href="{{ route('product7') }}">Shackle</a></li>
                 <li><a href="{{ route('product8') }}">Vertical & Horizontal plate clamp</a></li>
                 <li><a href="{{ route('product9') }}">Chain block</a></li>
-                <li><a href="{{ route('product10') }}">5tonne Pallet truck</a></li>
+                <li><a href="{{ route('product10') }}">5 tonne Pallet truck</a></li>
                 <li><a href="{{ route('product11') }}">Magnetic lifter</a></li>
                 <li><a href="{{ route('product12') }}">Eletctric Chain Block 0.5 ton to 15 ton</a></li>
                 <li><a href="{{ route('product13') }}">Lifting Gear </a></li>

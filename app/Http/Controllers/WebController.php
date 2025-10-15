@@ -43,7 +43,7 @@ class WebController extends Controller
 
     function index()
     {
-        $title = "Manarat Al Falah Trading LLC - Premium Lifting & Safety Equipments Supplier";
+        $title = "MAFT - Premium Lifting & Safety Equipments Supplier";
         $description = "MAFT is one of the trusted lifting equipment suppliers in Dubai, Abu Dhabi, and Sharjah. We supply top-quality lifting equipment solutions for efficient and safe operations.";
         $canonical_url = "https://maft.ae";
         return view('index', compact('title', 'description', 'canonical_url'));

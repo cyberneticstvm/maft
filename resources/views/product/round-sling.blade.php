@@ -128,17 +128,17 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <a href="#" class="thumbnail">
-                            <img src="{{ asset('/assets/images/products/product/round-sling2.jpg') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
+                            <img src="{{ asset('/assets/images/products/product/round-sling2.png') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <a href="#" class="thumbnail">
-                            <img src="{{ asset('/assets/images/products/product/round-sling3.jpg') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
+                            <img src="{{ asset('/assets/images/products/product/round-sling3.png') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <a href="#" class="thumbnail">
-                            <img src="{{ asset('/assets/images/products/product/round-sling4.jpg') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
+                            <img src="{{ asset('/assets/images/products/product/round-sling4.png') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
                         </a>
                     </div>
                 </div>

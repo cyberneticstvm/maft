@@ -20,10 +20,10 @@
                     <li><a class="mobile-menu-link" href="{{ route('product8') }}">Vertical & Horizontal plate clamp</a></li>
                     <li><a class="mobile-menu-link" href="{{ route('product9') }}">Chain block</a></li>
                     <li><a class="mobile-menu-link" href="{{ route('product10') }}">5tonne Pallet truck</a></li>
-                    <li><a class="mobile-menu-link" href="{{ route('product11') }}">Safe lift- magentic lifter</a></li>
-                    <li><a class="mobile-menu-link" href="{{ route('product12') }}">SAFE LIFT ELECTRIC CHAIN BLOCK 0.5 ton to 15 ton</a></li>
-                    <li><a class="mobile-menu-link" href="{{ route('product13') }}">Lifting Gear-Catalogue </a></li>
-                    <li><a class="mobile-menu-link" href="{{ route('product14') }}">chain-slings-LNS</a></li>
+                    <li><a class="mobile-menu-link" href="{{ route('product11') }}">Magentic lifter</a></li>
+                    <li><a class="mobile-menu-link" href="{{ route('product12') }}">Eletctric Chain Block 0.5 ton to 15 ton</a></li>
+                    <li><a class="mobile-menu-link" href="{{ route('product13') }}">Lifting Gear</a></li>
+                    <li><a class="mobile-menu-link" href="{{ route('product14') }}">chain-slings</a></li>
                     <li><a class="mobile-menu-link" href="{{ route('product15') }}">Wire rope sling</a></li>
                     <li><a class="mobile-menu-link" href="{{ route('product16') }}">Double webbing lanyard</a></li>
                     <li><a class="mobile-menu-link" href="{{ route('product17') }}">Full body harness</a></li>

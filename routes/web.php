@@ -11,6 +11,7 @@ Route::middleware(['web'])->group(function () {
         Route::get('/refresh/captcha', 'refreshCaptcha')->name('refresh.captcha');
         Route::post('/contact', 'contactSubmit')->name('contact.submit');
         Route::get('/sitemap.xml', 'sitemap')->name('sitemap');
+        Route::get('/robots.txt', 'robots')->name('robots');
     });
 
     Route::prefix('product')->controller(WebController::class)->group(function () {

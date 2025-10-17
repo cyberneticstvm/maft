@@ -112,6 +112,31 @@
         <priority>0.80</priority>
     </url>
     <url>
+        <loc>https://maft.ae/service/fabrication-service</loc>
+        <lastmod>2025-10-15T12:29:42+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://maft.ae/service/man-basket-service</loc>
+        <lastmod>2025-10-15T12:29:42+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://maft.ae/service/material-basket-service</loc>
+        <lastmod>2025-10-15T12:29:42+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://maft.ae/service/spreader-beam-service</loc>
+        <lastmod>2025-10-15T12:29:42+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://maft.ae/service/waste-skip-service</loc>
+        <lastmod>2025-10-15T12:29:42+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
         <loc>https://www.maft.ae/public/assets/docs/maft-catalogue.pdf</loc>
         <lastmod>2025-10-07T04:48:22+00:00</lastmod>
         <priority>0.80</priority>
@@ -121,6 +146,10 @@
         <lastmod>2025-10-15T12:29:42+00:00</lastmod>
         <priority>0.64</priority>
     </url>
-
+    <url>
+        <loc>https://www.maft.ae/services</loc>
+        <lastmod>2025-10-15T12:29:42+00:00</lastmod>
+        <priority>0.64</priority>
+    </url>
 
 </urlset>

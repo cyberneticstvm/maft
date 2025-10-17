@@ -62,7 +62,7 @@
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://www.maft.ae/product/5-tonne-pallet-truck</loc>
+        <loc>https://www.maft.ae/product/pallet-truck</loc>
         <lastmod>2025-10-15T12:29:42+00:00</lastmod>
         <priority>0.80</priority>
     </url>
@@ -77,7 +77,7 @@
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://www.maft.ae/product/lifting-gear</loc>
+        <loc>https://www.maft.ae/product/hydraulic-cylindrical-jack</loc>
         <lastmod>2025-10-15T12:29:42+00:00</lastmod>
         <priority>0.80</priority>
     </url>

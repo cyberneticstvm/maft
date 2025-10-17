@@ -19877,11 +19877,11 @@ edit .quantity-edit button {
   opacity: .8;
 }
 
-.bg-breadcrumb1 {
+/*.bg-breadcrumb1 {
   background-image: url(../images/bg/bcbg1.png);
-}
+}*/
 .bg-breadcrumb1 {
-  background-image: url(../images/bg/bcbg1.png);
+  background-image: url(../images/bg/bg-image-3.jpg);
 }
 
 .breadcrumb-inner .title {
@@ -19895,6 +19895,9 @@ edit .quantity-edit button {
     font-size: 36px;
     margin-bottom: 0;
   }
+}
+.meta a{
+  color: #fff !important;
 }
 .breadcrumb-inner .meta {
   display: flex;

@@ -144,10 +144,10 @@ class WebController extends Controller
 
     function product10()
     {
-        $title = "Heavy-Duty 5 Tonne Pallet Truck | MAFT UAE";
-        $description = "Buy a reliable 5 tonne pallet truck from MAFT – UAE’s top safety & industrial equipment supplier. High load capacity, durable, and easy to operate.";
-        $canonical_url = "https://maft.ae/product/5-tonne-pallet-truck";
-        return view('product.5-tonne-pallet-truck', compact('title', 'description', 'canonical_url'));
+        $title = "Heavy-Duty Pallet Truck | MAFT UAE";
+        $description = "Buy a reliable pallet truck from MAFT – UAE’s top safety & industrial equipment supplier. High load capacity, durable, and easy to operate.";
+        $canonical_url = "https://maft.ae/product/pallet-truck";
+        return view('product.pallet-truck', compact('title', 'description', 'canonical_url'));
     }
 
     function product11()
@@ -168,10 +168,10 @@ class WebController extends Controller
 
     function product13()
     {
-        $title = "High-Quality Lifting Gear | MAFT UAE";
-        $description = "Shop reliable lifting gear at MAFT – UAE's trusted source for slings, shackles, hooks, and more. Certified for safety, built for industrial performance.";
-        $canonical_url = "https://maft.ae/product/lifting-gear";
-        return view('product.lifting-gear', compact('title', 'description', 'canonical_url'));
+        $title = "Hydraulic Cylindrical & Bottle Jacks | MAFT UAE";
+        $description = "Buy durable hydraulic cylindrical and bottle jacks in UAE from MAFT — trusted safety equipment suppliers in Dubai & across the UAE.";
+        $canonical_url = "https://maft.ae/product/hydraulic-cylindrical-jack";
+        return view('product.hydraulic-cylindrical-jack', compact('title', 'description', 'canonical_url'));
     }
 
     function product14()
@@ -220,5 +220,45 @@ class WebController extends Controller
         $description = "Shop durable anchorage life line ropes at MAFT, UAE’s trusted safety supplier. Engineered for fall protection anchorage, reliable and compliant with safety standards.";
         $canonical_url = "https://maft.ae/product/anchorage-life-line-rope";
         return view('product.anchorage-life-line-rope', compact('title', 'description', 'canonical_url'));
+    }
+
+    function service1()
+    {
+        $title = "Metal Fabrication Services UAE | MAFT";
+        $description = "Get precision metal fabrication services in UAE from MAFT — trusted by industries for quality, custom fabrication & reliable turnaround times.";
+        $canonical_url = "https://maft.ae/service/fabrication-service";
+        return view('service.fabrication', compact('title', 'description', 'canonical_url'));
+    }
+
+    function service2()
+    {
+        $title = "Man Basket Rental & Services UAE | MAFT";
+        $description = "Safe and certified man basket services in UAE. MAFT offers reliable man basket rentals for elevated work across all industries.";
+        $canonical_url = "https://maft.ae/service/man-basket-service";
+        return view('service.man-basket', compact('title', 'description', 'canonical_url'));
+    }
+
+    function service3()
+    {
+        $title = "Material Basket Rental in UAE | MAFT";
+        $description = "Durable material basket rental services in UAE. MAFT provides certified lifting baskets for safe material handling at height.";
+        $canonical_url = "https://maft.ae/service/material-basket-service";
+        return view('service.material-basket', compact('title', 'description', 'canonical_url'));
+    }
+
+    function service4()
+    {
+        $title = "Spreader Beam Rental UAE | MAFT Services";
+        $description = "Rent certified spreader beams in UAE. MAFT offers safe lifting solutions for heavy loads with tested and compliant spreader beam services.";
+        $canonical_url = "https://maft.ae/service/spreader-beam-service";
+        return view('service.spreader-beam', compact('title', 'description', 'canonical_url'));
+    }
+
+    function service5()
+    {
+        $title = "Waste Skip Rental Services UAE | MAFT";
+        $description = "MAFT offers durable waste skip rental services in UAE for construction, industrial, and commercial waste management. Fast delivery & certified skips.";
+        $canonical_url = "https://maft.ae/service/waste-skip-service";
+        return view('service.waste-skip', compact('title', 'description', 'canonical_url'));
     }
 }

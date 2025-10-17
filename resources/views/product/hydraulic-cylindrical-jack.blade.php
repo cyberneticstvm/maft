@@ -11,7 +11,7 @@
                 <div class="meta text-end">
                     <a href="{{ route('index') }}" class="prev">Home/</a>
                     <a href="{{ route('products') }}" class="prev">products/</a>
-                    <a href="{{ route('product10') }}" class="next">5 Tonne Pallet Truck</a>
+                    <a href="{{ route('product13') }}" class="next">Hydraulic Cylindrical Jack and Bottle Jack</a>
                 </div>
                 <!-- bread crumb inner wrapper end -->
             </div>
@@ -24,28 +24,28 @@
             <div class="col-12">
                 <div class="product-details-main-inner" data-sal="slide-up" data-sal-delay="150" data-sal-duration="900">
                     <span>Manarat Al Falah Trading LLC (MAFT)</span>
-                    <h3 class="title animated fadeIn">5 Tonne Pallet Truck – Heavy-Duty Manual Handling Solution</h3>
-                    <p class="disc">Looking for a powerful and efficient solution for material handling? The 5 Tonne Pallet Truck from Manarat Al Falah Trading LLC (MAFT) is engineered for high-performance lifting and moving of heavy palletized loads in warehouses, factories, logistics hubs, and industrial sites across the UAE.</p>
-                    <p>At MAFT, we supply only high-quality and reliable industrial equipment that meets UAE safety standards. Whether you're upgrading your warehouse fleet or replacing older equipment, our 5 tonne pallet truck ensures efficiency, safety, and performance.</p>
+                    <h3 class="title animated fadeIn">Hydraulic Cylindrical Jack and Bottle Jack in UAE</h3>
+                    <p class="disc">At Manarat Al Falah Trading LLC (MAFT), we offer high-quality hydraulic cylindrical jacks and bottle jacks designed for heavy-duty lifting, industrial use, and vehicle maintenance. Built with precision and safety in mind, our jacks provide robust lifting capacity, stability, and long-lasting performance.</p>
                     <p class="italic">
-                        Built to handle up to 5,000 kg, this pallet truck features a reinforced steel frame, durable powder-coated finish, and precision bearings to ensure smooth and safe operation even under the toughest conditions. Its ergonomic handle and leak-proof hydraulic system make it easy to maneuver and operate with minimal effort.
+                        Whether you're lifting machinery, heavy vehicles, or structural components, our hydraulic jacks ensure safe and efficient lifting solutions that meet international quality standards.
                     </p>
                 </div>
             </div>
         </div>
         <div class="row g-5">
             <div class="col-12">
-                <h3 class="title mb--0 animated fadeIn" data-sal="slide-up" data-sal-delay="150" data-sal-duration="900">5 Tonne Pallet Truck</h3>
-                <p>5 Tonne Pallet Truck (also known as a 5,000 kg pallet jack or manual pallet lifter) is a manual material handling device designed to lift and move heavy palletized goods. It is commonly used in industrial and commercial settings where large loads need to be transported over short distances.</p>
+                <h3 class="title mb--0 animated fadeIn" data-sal="slide-up" data-sal-delay="150" data-sal-duration="900">Hydraulic Cylindrical Jack and Bottle Jack</h3>
+                <p>Hydraulic Cylindrical Jack is a high-capacity lifting device designed to lift or push heavy loads vertically using hydraulic pressure. It features a cylindrical body and piston that allows smooth and powerful lifting. These jacks are commonly used in industrial, construction, and heavy machinery applications, especially where precise lifting or pushing is required.</p>
+                <p>Bottle Jack, also known as a whiskey jack, is a compact and portable hydraulic lifting device named for its bottle-like shape. It’s widely used in automotive repair, particularly for lifting vehicles, thanks to its small footprint and high lifting power.</p>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 pr--80">
-                <h4>5 Tonne Pallet Truck Features</h4>
+                <h4>Hydraulic Cylindrical Jack and Bottle Jack Features</h4>
                 <div class="single-project-details-challenge">
                     <div class="icon">
                         <i class="far fa-check-circle"></i>
                     </div>
                     <p class="details">
-                        Load capacity: 5,000 kg (5 tonnes)
+                        Heavy-duty steel construction for enhanced durability
                     </p>
                 </div>
                 <div class="single-project-details-challenge">
@@ -53,7 +53,7 @@
                         <i class="far fa-check-circle"></i>
                     </div>
                     <p class="details">
-                        Heavy-duty steel construction for durability
+                        High lifting capacity ideal for workshops, garages, and industrial sites
                     </p>
                 </div>
                 <div class="single-project-details-challenge">
@@ -61,7 +61,7 @@
                         <i class="far fa-check-circle"></i>
                     </div>
                     <p class="details">
-                        Ergonomic handle for improved comfort and control
+                        Compact and portable design with easy operation
                     </p>
                 </div>
                 <div class="single-project-details-challenge">
@@ -69,7 +69,7 @@
                         <i class="far fa-check-circle"></i>
                     </div>
                     <p class="details">
-                        Smooth-rolling PU wheels for easy movement
+                        Leak-proof hydraulics for reliable performance
                     </p>
                 </div>
                 <div class="single-project-details-challenge">
@@ -77,27 +77,19 @@
                         <i class="far fa-check-circle"></i>
                     </div>
                     <p class="details">
-                        Reliable hydraulic lifting mechanism
-                    </p>
-                </div>
-                <div class="single-project-details-challenge">
-                    <div class="icon">
-                        <i class="far fa-check-circle"></i>
-                    </div>
-                    <p class="details">
-                        Ideal for warehouses, construction, and logistics
+                        Available in various tonnage capacities to suit your needs
                     </p>
                 </div>
             </div>
 
             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 pr--80">
-                <h4>5 Tonne Pallet Truck Applications</h4>
+                <h4>Hydraulic Cylindrical Jack and Bottle Jack Applications</h4>
                 <div class="single-project-details-challenge">
                     <div class="icon">
                         <i class="far fa-check-circle"></i>
                     </div>
                     <p class="details">
-                        Warehouses & Distribution Centers
+                        Automotive workshops
                     </p>
                 </div>
                 <div class="single-project-details-challenge">
@@ -105,7 +97,7 @@
                         <i class="far fa-check-circle"></i>
                     </div>
                     <p class="details">
-                        Manufacturing Facilities
+                        Construction and maintenance
                     </p>
                 </div>
                 <div class="single-project-details-challenge">
@@ -113,7 +105,7 @@
                         <i class="far fa-check-circle"></i>
                     </div>
                     <p class="details">
-                        Construction Sites
+                        Industrial and mechanical operations
                     </p>
                 </div>
                 <div class="single-project-details-challenge">
@@ -121,15 +113,7 @@
                         <i class="far fa-check-circle"></i>
                     </div>
                     <p class="details">
-                        Ports & Logistics Hubs
-                    </p>
-                </div>
-                <div class="single-project-details-challenge">
-                    <div class="icon">
-                        <i class="far fa-check-circle"></i>
-                    </div>
-                    <p class="details">
-                        Retail Storage Areas
+                        Emergency roadside assistance
                     </p>
                 </div>
             </div>
@@ -140,22 +124,22 @@
                 <div class="row g-24">
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <a href="#" class="thumbnail">
-                            <img src="{{ asset('/assets/images/products/product/truck1.jpg') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
+                            <img src="{{ asset('/assets/images/products/product/hcj1.png') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <a href="#" class="thumbnail">
-                            <img src="{{ asset('/assets/images/products/product/truck2.jpg') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
+                            <img src="{{ asset('/assets/images/products/product/hcj2.png') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <a href="#" class="thumbnail">
-                            <img src="{{ asset('/assets/images/products/product/truck3.jpg') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
+                            <img src="{{ asset('/assets/images/products/product/hbj1.png') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <a href="#" class="thumbnail">
-                            <img src="{{ asset('/assets/images/products/product/truck4.jpg') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
+                            <img src="{{ asset('/assets/images/products/product/hbj2.png') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
                         </a>
                     </div>
                 </div>

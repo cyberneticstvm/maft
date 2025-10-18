@@ -6,7 +6,7 @@
             <div class="col-lg-12">
                 <!-- bread crumb inner wrapper -->
                 <div class="breadcrumb-inner text-center breadcrumb-inner-bg">
-                    <h1 class="text-white">{{ $title }}</h1>
+                    <h1 class="text-white">Lever Hoists | MAFT, UAE</h1>
                 </div>
                 <div class="meta text-end">
                     <a href="{{ route('index') }}" class="prev">Home/</a>

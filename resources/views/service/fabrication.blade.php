@@ -27,6 +27,13 @@
                     <h3 class="title animated fadeIn">Custom Metal Fabrication Services in UAE</h3>
                     <p class="disc">At Manarat Al Falah Trading LLC (MAFT), we provide professional metal fabrication services tailored to meet the needs of industries across the UAE. With a commitment to precision, durability, and safety, our fabrication solutions are ideal for construction, manufacturing, oil & gas, and industrial sectors.
                     </p>
+                    <h4>Types of Service We Provide:</h4>
+                    <ul>
+                        <li>Man Basket</li>
+                        <li>Material Basket</li>
+                        <li>Spreader Beams</li>
+                        <li>Waste Skips</li>
+                    </ul>
                     <h4>Our Fabrication Capabilities Include:</h4>
                     <ul>
                         <li>Cutting, bending & welding of steel, aluminum, and stainless steel</li>
@@ -46,7 +53,34 @@
                 </div>
             </div>
         </div>
-        <div class="row g-5">
+        <h5 class="mt-5">Gallery</h5>
+        <div class="rts-project-details-thumbnail">
+            <div class="container">
+                <div class="row g-24">
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <a href="#" class="thumbnail">
+                            <img src="{{ asset('/assets/images/products/product/service1.png') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <a href="#" class="thumbnail">
+                            <img src="{{ asset('/assets/images/products/product/service2.png') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <a href="#" class="thumbnail">
+                            <img src="{{ asset('/assets/images/products/product/service3.png') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <a href="#" class="thumbnail">
+                            <img src="{{ asset('/assets/images/products/product/service4.png') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row g-5 mt-5">
             <div class="col-12">
                 <h6 class="title mb--0 animated fadeIn" data-sal="slide-up" data-sal-delay="150" data-sal-duration="900">Why Choose MAFT for Your Lifting Equipment in UAE?</h6>
                 <div class="single-project-details-challenge mt-5">

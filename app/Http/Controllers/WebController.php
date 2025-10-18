@@ -112,7 +112,7 @@ class WebController extends Controller
 
     function product6()
     {
-        $title = "Durable Round Slings – Safe Lifting Solutions UAE";
+        $title = "Durable Round Slings and Webbing Slings – MAFT UAE";
         $description = "Buy high-quality polyester round slings in UAE from MAFT – lightweight, durable, and safe lifting solutions for industrial and construction use.";
         $canonical_url = "https://maft.ae/product/round-sling";
         return view('product.round-sling', compact('title', 'description', 'canonical_url'));

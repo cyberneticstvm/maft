@@ -34,10 +34,10 @@
             <a class="nav-link" href="#">Services</a>
             <ul class="submenu inner-page">
                 <li><a href="{{ route('service1') }}">Fabrication services</a></li>
-                <li><a href="{{ route('service2') }}">Man Basket</a></li>
+                <!--<li><a href="{{ route('service2') }}">Man Basket</a></li>
                 <li><a href="{{ route('service3') }}">Material Basket</a></li>
                 <li><a href="{{ route('service4') }}">Spreader Beams</a></li>
-                <li><a href="{{ route('service5') }}">Waste Skips</a></li>
+                <li><a href="{{ route('service5') }}">Waste Skips</a></li>-->
             </ul>
         </li>
         <li class="has-droupdown">

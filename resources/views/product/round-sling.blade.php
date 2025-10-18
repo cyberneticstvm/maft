@@ -6,7 +6,7 @@
             <div class="col-lg-12">
                 <!-- bread crumb inner wrapper -->
                 <div class="breadcrumb-inner text-center breadcrumb-inner-bg">
-                    <h1 class="text-white">{{ $title }}</h1>
+                    <h1 class="text-white">Round Sling and Webbing Sling | MAFT, UAE</h1>
                 </div>
                 <div class="meta text-end">
                     <a href="{{ route('index') }}" class="prev">Home/</a>
@@ -24,7 +24,7 @@
             <div class="col-12">
                 <div class="product-details-main-inner" data-sal="slide-up" data-sal-delay="150" data-sal-duration="900">
                     <span>Manarat Al Falah Trading LLC (MAFT)</span>
-                    <h3 class="title animated fadeIn">Round Slings – Flexible and Reliable Lifting by MAFT</h3>
+                    <h3 class="title animated fadeIn">Round Sling and Webbing Sling – Flexible and Reliable Lifting by MAFT</h3>
                     <p class="disc">Manarat Al Falah Trading LLC (MAFT) provides premium-quality Round Slings designed for safe, efficient, and damage-free lifting operations. Made from high-strength polyester fibers, these slings are ideal for lifting heavy or delicate loads where steel chains or wire ropes might cause damage.</p>
                     <p class="italic">
                         “As a trusted safety equipment supplier in the UAE, MAFT ensures every round sling meets strict quality and safety standards. Our products combine strength, flexibility, and safety — delivering dependable lifting performance in every environment.”</p>
@@ -33,12 +33,12 @@
         </div>
         <div class="row g-5">
             <div class="col-12">
-                <h3 class="title mb--0 animated fadeIn" data-sal="slide-up" data-sal-delay="150" data-sal-duration="900">Round Slings</h3>
+                <h3 class="title mb--0 animated fadeIn" data-sal="slide-up" data-sal-delay="150" data-sal-duration="900">Round Sling and Webbing Sling</h3>
                 <p>Round Sling is a type of lifting and rigging equipment used to safely lift, move, and handle heavy loads in industrial and construction environments. It’s an essential part of safety equipment, designed to make lifting operations strong, stable, and damage-free.
                 </p>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 pr--80">
-                <h4>Round Slings Features</h4>
+                <h4>Round Sling and Webbing Sling Features</h4>
                 <div class="single-project-details-challenge">
                     <div class="icon">
                         <i class="far fa-check-circle"></i>
@@ -82,7 +82,7 @@
             </div>
 
             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 pr--80">
-                <h4>Round Slings Applications</h4>
+                <h4>Round Sling and Webbing Sling Applications</h4>
                 <div class="single-project-details-challenge">
                     <div class="icon">
                         <i class="far fa-check-circle"></i>

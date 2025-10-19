@@ -21,7 +21,7 @@ Route::middleware(['web'])->group(function () {
         Route::get('lever-hoist', 'product3')->name('product3');
         Route::get('beam-and-geared-trolley', 'product4')->name('product4');
         Route::get('cargo-lashing', 'product5')->name('product5');
-        Route::get('round-sling', 'product6')->name('product6');
+        Route::get('round-sling-and-webbing-sling', 'product6')->name('product6');
         Route::get('shackle', 'product7')->name('product7');
         Route::get('vertical-and-horizontal-plate-clamp', 'product8')->name('product8');
         Route::get('chain-block', 'product9')->name('product9');

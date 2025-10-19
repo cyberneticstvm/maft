@@ -14,7 +14,7 @@
                 <li><a href="{{ route('product3') }}">Lever hoist</a></li>
                 <li><a href="{{ route('product4') }}">Beam & Geared Trolley</a></li>
                 <li><a href="{{ route('product5') }}">Cargo Lashing</a></li>
-                <li><a href="{{ route('product6') }}">Round Sling</a></li>
+                <li><a href="{{ route('product6') }}">Round Sling & Webbing Sling</a></li>
                 <li><a href="{{ route('product7') }}">Shackle</a></li>
                 <li><a href="{{ route('product8') }}">Vertical & Horizontal plate clamp</a></li>
                 <li><a href="{{ route('product9') }}">Chain block</a></li>

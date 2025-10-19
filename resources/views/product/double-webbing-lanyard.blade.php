@@ -150,12 +150,12 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <a href="#" class="thumbnail">
-                            <img src="{{ asset('/assets/images/products/product/dwl3.png') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
+                            <img src="{{ asset('/assets/images/products/product/dwl5.png') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <a href="#" class="thumbnail">
-                            <img src="{{ asset('/assets/images/products/product/dwl4.png') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
+                            <img src="{{ asset('/assets/images/products/product/dwl6.png') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
                         </a>
                     </div>
                 </div>

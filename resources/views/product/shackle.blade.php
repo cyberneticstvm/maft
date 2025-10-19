@@ -24,7 +24,7 @@
             <div class="col-12">
                 <div class="product-details-main-inner" data-sal="slide-up" data-sal-delay="150" data-sal-duration="900">
                     <span>Manarat Al Falah Trading LLC (MAFT)</span>
-                    <h3 class="title animated fadeIn">Shackle – Heavy-Duty Load Connector for Safety & Strength</h3>
+                    <h3 class="title animated fadeIn">Shackle – Heavy-Duty for Safety & Strength</h3>
                     <p class="disc">At Manarat Al Falah Trading LLC (MAFT), we supply premium-quality shackles designed for secure and efficient lifting, rigging, and load-binding applications. Manufactured from high-tensile alloy steel, our shackles ensure maximum strength, corrosion resistance, and long-term reliability even under the most demanding conditions.</p>
                     <p class="italic">
                         “Whether for construction, marine, oil & gas, or industrial use, MAFT shackles provide dependable performance for connecting slings, chains, and lifting gear. Available in various sizes and types, including bow shackles and D shackles, each product complies with international safety standards.”</p>
@@ -149,7 +149,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <a href="#" class="thumbnail">
-                            <img src="{{ asset('/assets/images/products/product/shackle3.png') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
+                            <img src="{{ asset('/assets/images/products/product/shackle5.png') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">

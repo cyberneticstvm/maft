@@ -259,22 +259,22 @@
                 <div class="row g-24">
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <a href="#" class="thumbnail">
-                            <img src="{{ asset('/assets/images/products/product/dwl1.png') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
-                        </a>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12">
-                        <a href="#" class="thumbnail">
-                            <img src="{{ asset('/assets/images/products/product/dwl2.jpeg') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
-                        </a>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12">
-                        <a href="#" class="thumbnail">
                             <img src="{{ asset('/assets/images/products/product/fbh1.jpeg') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
                         </a>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12">
                         <a href="#" class="thumbnail">
                             <img src="{{ asset('/assets/images/products/product/fbh2.png') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <a href="#" class="thumbnail">
+                            <img src="{{ asset('/assets/images/products/product/dwl1.png') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <a href="#" class="thumbnail">
+                            <img src="{{ asset('/assets/images/products/product/dwl2.jpeg') }}" alt="{{ $title }} | Manarat Al Falah Trading LLC">
                         </a>
                     </div>
                 </div>

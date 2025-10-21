@@ -119,7 +119,7 @@
                 <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
                     <a href="#" class="">
-                        <img src="{{ asset('/assets/images/industry/Marine.jpg') }}" />
+                        <img src="{{ asset('/assets/images/industry/Marine.jpg') }}" alt="Marine" />
                     </a>
                     <div class="content-area">
                         <a href="#">
@@ -135,7 +135,7 @@
                 <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
                     <a href="#" class="">
-                        <img src="{{ asset('/assets/images/industry/Offshore.jpg') }}" />
+                        <img src="{{ asset('/assets/images/industry/Offshore.jpg') }}" alt="Offshore" />
                     </a>
                     <div class="content-area">
                         <a href="#">
@@ -151,7 +151,7 @@
                 <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
                     <a href="#" class="">
-                        <img src="{{ asset('/assets/images/industry/Engineering.jpg') }}" />
+                        <img src="{{ asset('/assets/images/industry/Engineering.jpg') }}" alt="Engineering" />
                     </a>
                     <div class="content-area">
                         <a href="#">
@@ -167,7 +167,7 @@
                 <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
                     <a href="#" class="">
-                        <img src="{{ asset('/assets/images/industry/Oil.jpg') }}" />
+                        <img src="{{ asset('/assets/images/industry/Oil.jpg') }}" alt="Oil & Gas" />
                     </a>
                     <div class="content-area">
                         <a href="#">
@@ -183,7 +183,7 @@
                 <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
                     <a href="#" class="">
-                        <img src="{{ asset('/assets/images/industry/Construction.jpg') }}" />
+                        <img src="{{ asset('/assets/images/industry/Construction.jpg') }}" alt="Construction" />
                     </a>
                     <div class="content-area">
                         <a href="#">
@@ -199,7 +199,7 @@
                 <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
                     <a href="#" class="">
-                        <img src="{{ asset('/assets/images/industry/Lifting.jpg') }}" />
+                        <img src="{{ asset('/assets/images/industry/Lifting.jpg') }}" alt="Industrial Lifting" />
                     </a>
                     <div class="content-area">
                         <a href="#">
@@ -215,7 +215,7 @@
                 <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
                     <a href="#" class="">
-                        <img src="{{ asset('/assets/images/industry/Foundation.jpg') }}" />
+                        <img src="{{ asset('/assets/images/industry/Foundation.jpg') }}" alt="Piling & Foundation" />
                     </a>
                     <div class="content-area">
                         <a href="#">
@@ -231,7 +231,7 @@
                 <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
                     <a href="#" class="">
-                        <img src="{{ asset('/assets/images/industry/Crane.jpg') }}" />
+                        <img src="{{ asset('/assets/images/industry/Crane.jpg') }}" alt="Crane & Engineering" />
                     </a>
                     <div class="content-area">
                         <a href="#">

@@ -26385,6 +26385,7 @@ body.index-nine .single-case-wrapper {
 }
 .rts-single-service-three .content-area {
   margin-left: 22px;
+  width: 150% !important;
 }
 .rts-single-service-three .content-area a .title {
   margin-bottom: 9px;

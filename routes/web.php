@@ -31,7 +31,7 @@ Route::middleware(['web'])->group(function () {
         Route::get('hydraulic-cylindrical-jack', 'product13')->name('product13');
         Route::get('chain-slings', 'product14')->name('product14');
         Route::get('wire-rope-slings', 'product15')->name('product15');
-        Route::get('double-webbing-lanyard', 'product16')->name('product16');
+        Route::get('double-webbing-lanyard-and-full-body-harness', 'product16')->name('product16');
         Route::get('full-body-harness', 'product17')->name('product17');
         Route::get('retractable-fall-arrester-block', 'product18')->name('product18');
         Route::get('anchorage-life-line-rope', 'product19')->name('product19');

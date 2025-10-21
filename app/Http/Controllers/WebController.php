@@ -194,7 +194,7 @@ class WebController extends Controller
     {
         $title = "Double Webbing Lanyard – Safety at MAFT UAE";
         $description = "Shop durable double webbing lanyards at MAFT, UAE’s trusted safety equipment supplier. Designed for fall protection and secure worker safety.";
-        $canonical_url = "https://maft.ae/product/double-webbing-lanyard";
+        $canonical_url = "https://maft.ae/product/double-webbing-lanyard-and-full-body-harness";
         return view('product.double-webbing-lanyard', compact('title', 'description', 'canonical_url'));
     }
 

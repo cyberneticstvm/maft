@@ -119,7 +119,7 @@
                 <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
                     <a href="#" class="">
-                        <i class="fas fa-ship fa-5x text-orange"></i>
+                        <img src="{{ asset('/assets/images/industry/Marine.jpg') }}" />
                     </a>
                     <div class="content-area">
                         <a href="#">
@@ -135,7 +135,7 @@
                 <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
                     <a href="#" class="">
-                        <i class="fas fa-anchor fa-5x text-orange"></i>
+                        <img src="{{ asset('/assets/images/industry/Offshore.jpg') }}" />
                     </a>
                     <div class="content-area">
                         <a href="#">
@@ -151,7 +151,7 @@
                 <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
                     <a href="#" class="">
-                        <i class="fas fa-cogs fa-5x text-orange"></i>
+                        <img src="{{ asset('/assets/images/industry/Engineering.jpg') }}" />
                     </a>
                     <div class="content-area">
                         <a href="#">
@@ -167,7 +167,7 @@
                 <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
                     <a href="#" class="">
-                        <i class="fas fa-tint fa-5x text-orange"></i>
+                        <img src="{{ asset('/assets/images/industry/Oil.jpg') }}" />
                     </a>
                     <div class="content-area">
                         <a href="#">
@@ -183,7 +183,7 @@
                 <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
                     <a href="#" class="">
-                        <i class="fas fa-city fa-5x text-orange"></i>
+                        <img src="{{ asset('/assets/images/industry/Construction.jpg') }}" />
                     </a>
                     <div class="content-area">
                         <a href="#">
@@ -199,7 +199,7 @@
                 <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
                     <a href="#" class="">
-                        <i class="fas fa-truck-loading fa-5x text-orange"></i>
+                        <img src="{{ asset('/assets/images/industry/Lifting.jpg') }}" />
                     </a>
                     <div class="content-area">
                         <a href="#">
@@ -215,7 +215,7 @@
                 <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
                     <a href="#" class="">
-                        <i class="fas fa-snowplow fa-5x text-orange"></i>
+                        <img src="{{ asset('/assets/images/industry/Foundation.jpg') }}" />
                     </a>
                     <div class="content-area">
                         <a href="#">
@@ -231,7 +231,7 @@
                 <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
                     <a href="#" class="">
-                        <i class="fas fa-forklift fa-5x text-orange"></i>
+                        <img src="{{ asset('/assets/images/industry/Crane.jpg') }}" />
                     </a>
                     <div class="content-area">
                         <a href="#">

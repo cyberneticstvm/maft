@@ -92,12 +92,7 @@
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://www.maft.ae/product/double-webbing-lanyard</loc>
-        <lastmod>2025-10-15T12:29:42+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>https://www.maft.ae/product/full-body-harness</loc>
+        <loc>https://www.maft.ae/product/double-webbing-lanyard-and-full-body-harness</loc>
         <lastmod>2025-10-15T12:29:42+00:00</lastmod>
         <priority>0.80</priority>
     </url>

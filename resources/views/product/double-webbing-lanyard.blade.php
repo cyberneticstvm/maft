@@ -21,6 +21,7 @@
 <div class="rts-project-details-area pb--100 pt--25">
     <div class="container">
         <div class="row mt--70 mb--50">
+            <span>Manarat Al Falah Trading LLC (MAFT)</span>
             <h3 class="title animated fadeIn">Full Body Harness – Essential Fall Protection Equipment</h3>
             <p class="disc">At Manarat Al Falah Trading LLC (MAFT), we supply premium full body harnesses engineered to provide maximum safety and comfort for workers at height. Designed to distribute fall forces evenly across the body, our harnesses reduce injury risk during fall arrest and positioning.</p>
             <p>Constructed from high-strength polyester webbing with reinforced stitching, these harnesses feature adjustable straps, padded shoulders, and multiple attachment points for lanyards and fall arrest devices. They ensure secure fit and freedom of movement, essential for demanding industrial and construction environments.</p>
@@ -135,10 +136,9 @@
                 </div>
             </div>
         </div>
-        <div class="row mt-5">
+        <div class="row mt-3">
             <div class="col-12">
                 <div class="product-details-main-inner" data-sal="slide-up" data-sal-delay="150" data-sal-duration="900">
-                    <span>Manarat Al Falah Trading LLC (MAFT)</span>
                     <h3 class="title animated fadeIn">Double Webbing Lanyard – Enhanced Fall Protection</h3>
                     <p class="disc">At Manarat Al Falah Trading LLC (MAFT), we offer high-quality Double Webbing Lanyards designed to provide maximum safety and reliability for workers operating at heights. Our lanyards are made from durable, abrasion-resistant polyester webbing with reinforced stitching, ensuring strong performance under demanding conditions.</p>
                     <p>Double webbing lanyards feature two webbing legs, allowing users to remain connected to anchor points while moving between locations, minimizing downtime and maximizing safety.</p>

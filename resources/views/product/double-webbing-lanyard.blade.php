@@ -21,13 +21,17 @@
 <div class="rts-project-details-area pb--100 pt--25">
     <div class="container">
         <div class="row mt--70 mb--50">
-            <span>Manarat Al Falah Trading LLC (MAFT)</span>
-            <h3 class="title animated fadeIn">Full Body Harness – Essential Fall Protection Equipment</h3>
-            <p class="disc">At Manarat Al Falah Trading LLC (MAFT), we supply premium full body harnesses engineered to provide maximum safety and comfort for workers at height. Designed to distribute fall forces evenly across the body, our harnesses reduce injury risk during fall arrest and positioning.</p>
-            <p>Constructed from high-strength polyester webbing with reinforced stitching, these harnesses feature adjustable straps, padded shoulders, and multiple attachment points for lanyards and fall arrest devices. They ensure secure fit and freedom of movement, essential for demanding industrial and construction environments.</p>
-            <p class="italic">
-                Our full body harnesses undergo strict quality checks and certifications, making them reliable for use in hazardous work environments. At MAFT, safety and worker protection come first.
-            </p>
+            <div class="col-12">
+                <div class="product-details-main-inner" data-sal="slide-up" data-sal-delay="150" data-sal-duration="900">
+                    <span>Manarat Al Falah Trading LLC (MAFT)</span>
+                    <h3 class="title animated fadeIn">Full Body Harness – Essential Fall Protection Equipment</h3>
+                    <p class="disc">At Manarat Al Falah Trading LLC (MAFT), we supply premium full body harnesses engineered to provide maximum safety and comfort for workers at height. Designed to distribute fall forces evenly across the body, our harnesses reduce injury risk during fall arrest and positioning.</p>
+                    <p>Constructed from high-strength polyester webbing with reinforced stitching, these harnesses feature adjustable straps, padded shoulders, and multiple attachment points for lanyards and fall arrest devices. They ensure secure fit and freedom of movement, essential for demanding industrial and construction environments.</p>
+                    <p class="italic">
+                        Our full body harnesses undergo strict quality checks and certifications, making them reliable for use in hazardous work environments. At MAFT, safety and worker protection come first.
+                    </p>
+                </div>
+            </div>
             <div class="col-12 mb-5">
                 <h3 class="title mb--0 animated fadeIn" data-sal="slide-up" data-sal-delay="150" data-sal-duration="900">Full Body Harness</h3>
                 <p>Full Body Harness is a critical personal fall protection device designed to safely arrest a fall and distribute the impact forces evenly across a worker’s torso, thighs, and pelvis. It consists of a system of straps made from durable materials such as polyester or nylon, which fit securely around the shoulders, chest, waist, and legs.</p>

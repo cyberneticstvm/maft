@@ -25,7 +25,7 @@
                     <li><a class="mobile-menu-link" href="{{ route('product13') }}">Hydraulic Cylindrical Jack</a></li>
                     <li><a class="mobile-menu-link" href="{{ route('product14') }}">chain-slings</a></li>
                     <li><a class="mobile-menu-link" href="{{ route('product15') }}">Wire rope sling</a></li>
-                    <li><a class="mobile-menu-link" href="{{ route('product16') }}">Double webbing lanyard & Full Body Harness</a></li>
+                    <li><a class="mobile-menu-link" href="{{ route('product16') }}">Full Body Harness & Double webbing lanyard</a></li>
                     <!--<li><a class="mobile-menu-link" href="{{ route('product17') }}">Full body harness</a></li>-->
                     <li><a class="mobile-menu-link" href="{{ route('product18') }}">Retractable fall arrester block</a></li>
                     <li><a class="mobile-menu-link" href="{{ route('product19') }}">Anchorage life line rope</a></li>

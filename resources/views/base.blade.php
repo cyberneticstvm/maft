@@ -49,6 +49,7 @@
     <link rel="stylesheet" href="{{ asset('/assets/css/vendor/bootstrap.min.css') }}">
     <!-- main css -->
     <link rel="stylesheet" href="{{ asset('/assets/css/style.css?v=2') }}">
+    <script id='pixel-script-poptin' src='https://cdn.popt.in/pixel.js?id=878e8764ab4f8' async='true'></script>
 </head>
 
 <body class="index-twelve">

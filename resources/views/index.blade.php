@@ -247,4 +247,94 @@
         </div>
     </div>
 </div>
+<div class="rts-testimonials-area rts-section-gap">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <span>Testimonials</span>
+                <h2 class="title">
+                    What our customers are thinking.
+                </h2>
+            </div>
+            <div class="col-lg-12">
+                <div class="main-wrapper-testimonials">
+
+                    <div class="swiper swiper-testimonials-1 swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events">
+                        <div class="swiper-wrapper" id="swiper-wrapper-c224fe2f0a810d1d9" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-4772px, 0px, 0px);">
+                            <div class="swiper-slide swiper-slide-duplicate-active" data-swiper-slide-index="2" style="width: 1193px;" role="group" aria-label="3 / 3">
+                                <!-- single -->
+                                <div class="testimonials-mian-wrapepr">
+                                    <div class="testimonials-right">
+                                        <h3 class="title animated fadeIn">
+                                            Our experience purchasing safety PPE items from MAFT has been smooth and professional. Their team is knowledgeable and responsive, helping us select the right gear for our operational needs. The product range is extensive, including safety harnesses, lifeline ropes, pallet trucks, and cargo lashing equipment, all designed to enhance workplace safety.
+                                            If you're looking for a trusted supplier of safety PPE in the UAE, MAFT is a solid choice for both product quality and customer support, thank you Mansoor.
+                                        </h3>
+                                        <a href="#" class="name">Zee Five ,<span>UAE</span></a>
+                                    </div>
+                                </div>
+                                <!-- single -->
+                            </div>
+                            <div class="swiper-slide" data-swiper-slide-index="0" style="width: 1193px;" role="group" aria-label="1 / 3">
+                                <!-- single -->
+                                <div class="testimonials-mian-wrapepr">
+                                    <div class="testimonials-right">
+                                        <h3 class="title animated fadeIn">
+                                            It’s good working with MAFT.
+                                            Mansur is the sales person who coordinates with us and is apt with what he sells and if any issues, he supports to sort asap.
+
+                                        </h3>
+                                        <a href="#" class="name">Jennifer Cruz ,<span>UAE</span></a>
+                                    </div>
+                                </div>
+                                <!-- single -->
+                            </div>
+                            <div class="swiper-slide" data-swiper-slide-index="1" style="width: 1193px;" role="group" aria-label="2 / 3">
+                                <!-- single -->
+                                <div class="testimonials-mian-wrapepr">
+                                    <div class="testimonials-right">
+                                        <h3 class="title animated fadeIn">
+                                            Nice experience, timely delivery
+                                        </h3>
+                                        <a href="#" class="name">Binu Varghese ,<span>UAE</span></a>
+                                    </div>
+                                </div>
+                                <!-- single -->
+                            </div>
+                            <div class="swiper-slide swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="2" style="width: 1193px;" role="group" aria-label="3 / 3">
+                                <!-- single -->
+                                <div class="testimonials-mian-wrapepr">
+                                    <div class="testimonials-right">
+                                        <h3 class="title animated fadeIn">
+                                            Excellent service
+                                        </h3>
+                                        <a href="#" class="name">Mohammed Ranees ,<span>UAE</span></a>
+                                    </div>
+                                </div>
+                                <!-- single -->
+                            </div>
+                            <div class="swiper-slide swiper-slide-duplicate swiper-slide-active" data-swiper-slide-index="0" role="group" aria-label="1 / 3" style="width: 1193px;">
+                                <!-- single -->
+                                <div class="testimonials-mian-wrapepr">
+                                    <div class="testimonials-right">
+                                        <h3 class="title animated fadeIn">
+                                            Good Supplier
+                                        </h3>
+                                        <a href="#" class="name">Mian Talat ,<span>UAE</span></a>
+                                    </div>
+                                </div>
+                                <!-- single -->
+                            </div>
+                        </div>
+                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+                    </div>
+                    <div class="button-wrapper">
+
+                        <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-c224fe2f0a810d1d9"><i class="fa-regular fa-arrow-right"></i></div>
+                        <div class="swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-c224fe2f0a810d1d9"><i class="fa-regular fa-arrow-left"></i></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 @endsection("content")

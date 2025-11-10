@@ -265,7 +265,7 @@
                                 <!-- single -->
                                 <div class="testimonials-mian-wrapepr">
                                     <div class="image-area">
-                                        <div class="thumbnail">
+                                        <div class="">
                                             <img src="{{ asset('/assets/images/testimonials/01.png') }}" alt="MAFT">
                                         </div>
                                     </div>
@@ -283,7 +283,7 @@
                                 <!-- single -->
                                 <div class="testimonials-mian-wrapepr">
                                     <div class="image-area">
-                                        <div class="thumbnail">
+                                        <div class="">
                                             <img src="{{ asset('/assets/images/testimonials/01.png') }}" alt="MAFT">
                                         </div>
                                     </div>
@@ -302,7 +302,7 @@
                                 <!-- single -->
                                 <div class="testimonials-mian-wrapepr">
                                     <div class="image-area">
-                                        <div class="thumbnail">
+                                        <div class="">
                                             <img src="{{ asset('/assets/images/testimonials/01.png') }}" alt="MAFT">
                                         </div>
                                     </div>
@@ -319,7 +319,7 @@
                                 <!-- single -->
                                 <div class="testimonials-mian-wrapepr">
                                     <div class="image-area">
-                                        <div class="thumbnail">
+                                        <div class="">
                                             <img src="{{ asset('/assets/images/testimonials/01.png') }}" alt="MAFT">
                                         </div>
                                     </div>
@@ -336,7 +336,7 @@
                                 <!-- single -->
                                 <div class="testimonials-mian-wrapepr">
                                     <div class="image-area">
-                                        <div class="thumbnail">
+                                        <div class="">
                                             <img src="{{ asset('/assets/images/testimonials/01.png') }}" alt="MAFT">
                                         </div>
                                     </div>

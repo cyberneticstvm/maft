@@ -282,6 +282,11 @@
                             <div class="swiper-slide" data-swiper-slide-index="0" style="width: 1193px;" role="group" aria-label="1 / 3">
                                 <!-- single -->
                                 <div class="testimonials-mian-wrapepr">
+                                    <div class="image-area">
+                                        <div class="thumbnail">
+                                            <img src="{{ asset('/assets/images/testimonials/01.png') }}" alt="MAFT">
+                                        </div>
+                                    </div>
                                     <div class="testimonials-right">
                                         <h3 class="title animated fadeIn">
                                             It’s good working with MAFT.

@@ -288,11 +288,11 @@
                                         </div>
                                     </div>
                                     <div class="testimonials-right">
-                                        <h3 class="title animated fadeIn">
+                                        <p class="animated fadeIn">
                                             It’s good working with MAFT.
                                             Mansur is the sales person who coordinates with us and is apt with what he sells and if any issues, he supports to sort asap.
 
-                                        </h3>
+                                        </p>
                                         <a href="#" class="name">Jennifer Cruz ,<span>UAE</span></a>
                                     </div>
                                 </div>
@@ -301,10 +301,15 @@
                             <div class="swiper-slide" data-swiper-slide-index="1" style="width: 1193px;" role="group" aria-label="2 / 3">
                                 <!-- single -->
                                 <div class="testimonials-mian-wrapepr">
+                                    <div class="image-area">
+                                        <div class="thumbnail">
+                                            <img src="{{ asset('/assets/images/testimonials/01.png') }}" alt="MAFT">
+                                        </div>
+                                    </div>
                                     <div class="testimonials-right">
-                                        <h3 class="title animated fadeIn">
+                                        <p class="animated fadeIn">
                                             Nice experience, timely delivery
-                                        </h3>
+                                        </p>
                                         <a href="#" class="name">Binu Varghese ,<span>UAE</span></a>
                                     </div>
                                 </div>
@@ -313,10 +318,15 @@
                             <div class="swiper-slide swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="2" style="width: 1193px;" role="group" aria-label="3 / 3">
                                 <!-- single -->
                                 <div class="testimonials-mian-wrapepr">
+                                    <div class="image-area">
+                                        <div class="thumbnail">
+                                            <img src="{{ asset('/assets/images/testimonials/01.png') }}" alt="MAFT">
+                                        </div>
+                                    </div>
                                     <div class="testimonials-right">
-                                        <h3 class="title animated fadeIn">
+                                        <p class="animated fadeIn">
                                             Excellent service
-                                        </h3>
+                                        </p>
                                         <a href="#" class="name">Mohammed Ranees ,<span>UAE</span></a>
                                     </div>
                                 </div>
@@ -325,10 +335,15 @@
                             <div class="swiper-slide swiper-slide-duplicate swiper-slide-active" data-swiper-slide-index="0" role="group" aria-label="1 / 3" style="width: 1193px;">
                                 <!-- single -->
                                 <div class="testimonials-mian-wrapepr">
+                                    <div class="image-area">
+                                        <div class="thumbnail">
+                                            <img src="{{ asset('/assets/images/testimonials/01.png') }}" alt="MAFT">
+                                        </div>
+                                    </div>
                                     <div class="testimonials-right">
-                                        <h3 class="title animated fadeIn">
+                                        <p class="animated fadeIn">
                                             Good Supplier
-                                        </h3>
+                                        </p>
                                         <a href="#" class="name">Mian Talat ,<span>UAE</span></a>
                                     </div>
                                 </div>

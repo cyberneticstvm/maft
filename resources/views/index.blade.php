@@ -264,6 +264,11 @@
                             <div class="swiper-slide swiper-slide-duplicate-active" data-swiper-slide-index="2" style="width: 1193px;" role="group" aria-label="3 / 3">
                                 <!-- single -->
                                 <div class="testimonials-mian-wrapepr">
+                                    <div class="image-area">
+                                        <div class="thumbnail">
+                                            <img src="{{ asset('/assets/images/testimonials/01.png') }}" alt="MAFT">
+                                        </div>
+                                    </div>
                                     <div class="testimonials-right">
                                         <h3 class="title animated fadeIn">
                                             Our experience purchasing safety PPE items from MAFT has been smooth and professional. Their team is knowledgeable and responsive, helping us select the right gear for our operational needs. The product range is extensive, including safety harnesses, lifeline ropes, pallet trucks, and cargo lashing equipment, all designed to enhance workplace safety.

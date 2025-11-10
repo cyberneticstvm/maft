@@ -341,7 +341,7 @@
                                         </div>
                                     </div>
                                     <div class="testimonials-right">
-                                        <p class="animated fadeIn">
+                                        <p class="animated fadeIn text-start">
                                             Good Supplier
                                         </p>
                                         <a href="#" class="name">Mian Talat ,<span>UAE</span></a>

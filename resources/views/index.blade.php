@@ -269,7 +269,7 @@
                                             <img src="{{ asset('/assets/images/testimonials/01.png') }}" alt="MAFT">
                                         </div>
                                     </div>
-                                    <div class="testimonials-right">
+                                    <div class="">
                                         <p class="animated fadeIn">
                                             Our experience purchasing safety PPE items from MAFT has been smooth and professional. Their team is knowledgeable and responsive, helping us select the right gear for our operational needs. The product range is extensive, including safety harnesses, lifeline ropes, pallet trucks, and cargo lashing equipment, all designed to enhance workplace safety.
                                             If you're looking for a trusted supplier of safety PPE in the UAE, MAFT is a solid choice for both product quality and customer support, thank you Mansoor.
@@ -287,7 +287,7 @@
                                             <img src="{{ asset('/assets/images/testimonials/01.png') }}" alt="MAFT">
                                         </div>
                                     </div>
-                                    <div class="testimonials-right">
+                                    <div class="">
                                         <p class="animated fadeIn">
                                             It’s good working with MAFT.
                                             Mansur is the sales person who coordinates with us and is apt with what he sells and if any issues, he supports to sort asap.
@@ -306,7 +306,7 @@
                                             <img src="{{ asset('/assets/images/testimonials/01.png') }}" alt="MAFT">
                                         </div>
                                     </div>
-                                    <div class="testimonials-right">
+                                    <div class="">
                                         <p class="animated fadeIn">
                                             Nice experience, timely delivery
                                         </p>
@@ -323,7 +323,7 @@
                                             <img src="{{ asset('/assets/images/testimonials/01.png') }}" alt="MAFT">
                                         </div>
                                     </div>
-                                    <div class="testimonials-right">
+                                    <div class="">
                                         <p class="animated fadeIn">
                                             Excellent service
                                         </p>
@@ -340,8 +340,8 @@
                                             <img src="{{ asset('/assets/images/testimonials/01.png') }}" alt="MAFT">
                                         </div>
                                     </div>
-                                    <div class="testimonials-right">
-                                        <p class="animated fadeIn text-start">
+                                    <div class="">
+                                        <p class="animated fadeIn">
                                             Good Supplier
                                         </p>
                                         <a href="#" class="name">Mian Talat ,<span>UAE</span></a>

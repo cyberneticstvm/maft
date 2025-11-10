@@ -29921,9 +29921,9 @@ form.appoinment-form select option {
     gap: 40px;
   }
 }
-.testimonials-mian-wrapepr .image-area {
+/*.testimonials-mian-wrapepr .image-area {
   flex-basis: 80%;
-}
+}*/
 .testimonials-mian-wrapepr .image-area .title {
   margin-bottom: 44px;
   font-weight: 600;

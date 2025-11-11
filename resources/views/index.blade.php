@@ -270,7 +270,7 @@
                                         </div>
                                     </div>
                                     <div class="">
-                                        <p class="animated fadeIn text-orange bg-secondary">
+                                        <p class="animated fadeIn text-orange">
                                             Our experience purchasing safety PPE items from MAFT has been smooth and professional. Their team is knowledgeable and responsive, helping us select the right gear for our operational needs. The product range is extensive, including safety harnesses, lifeline ropes, pallet trucks, and cargo lashing equipment, all designed to enhance workplace safety.
                                             If you're looking for a trusted supplier of safety PPE in the UAE, MAFT is a solid choice for both product quality and customer support, thank you Mansoor.
                                         </p>
@@ -288,7 +288,7 @@
                                         </div>
                                     </div>
                                     <div class="">
-                                        <p class="animated fadeIn">
+                                        <p class="animated fadeIn text-orange">
                                             It’s good working with MAFT.
                                             Mansur is the sales person who coordinates with us and is apt with what he sells and if any issues, he supports to sort asap.
 
@@ -307,7 +307,7 @@
                                         </div>
                                     </div>
                                     <div class="">
-                                        <p class="animated fadeIn">
+                                        <p class="animated fadeIn text-orange">
                                             Nice experience, timely delivery
                                         </p>
                                         <a href="#" class="name">Binu Varghese ,<span>UAE</span></a>
@@ -324,7 +324,7 @@
                                         </div>
                                     </div>
                                     <div class="">
-                                        <p class="animated fadeIn">
+                                        <p class="animated fadeIn text-orange">
                                             Excellent service
                                         </p>
                                         <a href="#" class="name">Mohammed Ranees ,<span>UAE</span></a>
@@ -341,7 +341,7 @@
                                         </div>
                                     </div>
                                     <div class="">
-                                        <p class="animated fadeIn">
+                                        <p class="animated fadeIn text-orange">
                                             Good Supplier
                                         </p>
                                         <a href="#" class="name">Mian Talat ,<span>UAE</span></a>

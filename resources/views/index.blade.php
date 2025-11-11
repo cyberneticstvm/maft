@@ -259,11 +259,11 @@
             <div class="col-lg-12">
                 <div class="main-wrapper-testimonials">
 
-                    <div class="swiper swiper-testimonials-1 swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events">
+                    <div class="bg-primary swiper swiper-testimonials-1 swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events">
                         <div class="swiper-wrapper" id="swiper-wrapper-c224fe2f0a810d1d9" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-4772px, 0px, 0px);">
                             <div class="swiper-slide swiper-slide-duplicate-active" data-swiper-slide-index="2" style="width: 1193px;" role="group" aria-label="3 / 3">
                                 <!-- single -->
-                                <div class="testimonials-mian-wrapepr bg-primary">
+                                <div class="testimonials-mian-wrapepr">
                                     <div class="image-area">
                                         <div class="">
                                             <img src="{{ asset('/assets/images/testimonials/01.png') }}" alt="MAFT">

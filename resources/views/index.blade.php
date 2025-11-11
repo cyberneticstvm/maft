@@ -269,7 +269,7 @@
                                             <img src="{{ asset('/assets/images/testimonials/01.png') }}" alt="MAFT">
                                         </div>
                                     </div>
-                                    <div class="">
+                                    <div class="bg-primary">
                                         <p class="animated fadeIn">
                                             Our experience purchasing safety PPE items from MAFT has been smooth and professional. Their team is knowledgeable and responsive, helping us select the right gear for our operational needs. The product range is extensive, including safety harnesses, lifeline ropes, pallet trucks, and cargo lashing equipment, all designed to enhance workplace safety.
                                             If you're looking for a trusted supplier of safety PPE in the UAE, MAFT is a solid choice for both product quality and customer support, thank you Mansoor.

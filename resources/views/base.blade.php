@@ -210,7 +210,7 @@
                                 </div>
                             </div>
                             <div class="iso">
-                                <img src="{{ asset('/assets/images/1.png') }}" alt="iso" />
+                                <img src="{{ asset('/assets/images/certificate.jpeg') }}" alt="iso" />
                             </div>
                         </div>
                         <div class="single-footer-wized-two user-number" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
